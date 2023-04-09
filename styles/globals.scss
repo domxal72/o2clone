@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import 'variables';
+@import 'header';
+
+:root {}
+
+html {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
+  color: $white;
+}
+
+body {
+  max-width: 100%;
+}
+
+.bg-primary {
+  background-color: $primary;
+}

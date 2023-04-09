@@ -1,0 +1,47 @@
+.header {}
+
+.header__menu-item {
+  position: relative;
+  padding: 0.25rem 0;
+  opacity: 0.7;
+  transition: $transition;
+
+  &:hover {
+    opacity: 1;
+  }
+
+  &::before {
+    display: none;
+    background: $secondary;
+    content: "";
+    height: 3px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+  }
+
+  &:hover::before {
+    display: block;
+  }
+}
+
+.cont {
+  flex: 1;
+  overflow: scroll;
+  max-height: 500px;
+}
+
+.content {
+  height: 2000px;
+  width: 100%;
+}
+
+.hor {
+
+  overflow: scroll;
+
+  div {
+    width: 2000px;
+  }
+}
