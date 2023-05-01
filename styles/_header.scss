@@ -1,4 +1,14 @@
-.header {}
+.header {
+  width: 100%;
+  height: $header-height;
+  position: fixed;
+  z-index: 10;
+  padding: 0 $content-offset-width;
+}
+
+.header--relative {
+  position: relative;
+}
 
 .header__menu-item {
   position: relative;

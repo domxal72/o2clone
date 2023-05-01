@@ -1,0 +1,220 @@
+{
+  "hits": [
+    {
+      "title": "M3GAN",
+      "imgSrc": "megan",
+      "csfd": 58
+    },
+    {
+      "title": "Spolu",
+      "imgSrc": "spolu",
+      "csfd": 76
+    },
+    {
+      "title": "Žít",
+      "imgSrc": "zit",
+      "csfd": 73
+    },
+    {
+      "title": "Úžasný Mauric",
+      "imgSrc": "mauric",
+      "csfd": 62
+    },
+    {
+      "title": "Kámoši",
+      "imgSrc": "kamosi",
+      "csfd": 62
+    },
+    {
+      "title": "Kocour v botách: Poslední přání",
+      "imgSrc": "kocour",
+      "csfd": 86
+    },
+    {
+      "title": "Běžná selhání",
+      "imgSrc": "selhani",
+      "csfd": 54
+    },
+    {
+      "title": "Black Panther: Wakanda nechť žije",
+      "imgSrc": "panter",
+      "csfd": 62
+    },
+    {
+      "title": "Všechno, všude, najednou",
+      "imgSrc": "vsechno",
+      "csfd": 71
+    },
+    {
+      "title": "Největší dar",
+      "imgSrc": "dar",
+      "csfd": 57
+    }
+  ],
+  "recomend": [
+    {
+      "title": "Smrt na Nilu",
+      "imgSrc": "nil",
+      "csfd": 66
+    },
+    {
+      "title": "Most špiónů",
+      "imgSrc": "most",
+      "csfd": 79
+    },
+    {
+      "title": "Zraněná srdce",
+      "imgSrc": "srdce",
+      "csfd": 68
+    },
+    {
+      "title": "Deuce Bigalow: Dobrej striptér",
+      "imgSrc": "bigalow",
+      "csfd": 59
+    },
+    {
+      "title": "Black Widow",
+      "imgSrc": "widow",
+      "csfd": 64
+    },
+    {
+      "title": "Jak přežít single",
+      "imgSrc": "single",
+      "csfd": 65
+    },
+    {
+      "title": "TRON: Legacy",
+      "imgSrc": "tron",
+      "csfd": 72
+    },
+    {
+      "title": "Zítra to roztočíme, drahoušku!",
+      "imgSrc": "zitra",
+      "csfd": 77
+    },
+    {
+      "title": "Anthropoid",
+      "imgSrc": "anthropoid",
+      "csfd": 80
+    },
+    {
+      "title": "Legendární parta",
+      "imgSrc": "parta",
+      "csfd": 76
+    }
+  ],
+  "best": [
+    {
+      "title": "Vykoupení z věznice Shawshank",
+      "imgSrc": "ss",
+      "csfd": 95
+    },
+    {
+      "title": "Sedm",
+      "imgSrc": "seven",
+      "csfd": 92
+    },
+    {
+      "title": "Schindlerův seznam",
+      "imgSrc": "schindler",
+      "csfd": 91
+    },
+    {
+      "title": "Pelíšky",
+      "imgSrc": "pelisky",
+      "csfd": 91
+    },
+    {
+      "title": "Vetřelec",
+      "imgSrc": "alien",
+      "csfd": 90
+    },
+    {
+      "title": "Matrix",
+      "imgSrc": "matrix",
+      "csfd": 90
+    },
+    {
+      "title": "Pán prstenů: Návrat krále",
+      "imgSrc": "king",
+      "csfd": 90
+    },
+    {
+      "title": "Pán prstenů: Společenstvo Prstenu",
+      "imgSrc": "lotr",
+      "csfd": 90
+    },
+    {
+      "title": "Gran Torino",
+      "imgSrc": "gt",
+      "csfd": 90
+    },
+    {
+      "title": "Temný rytíř",
+      "imgSrc": "batman",
+      "csfd": 90
+    },
+    {
+      "title": "Star Wars: Epizoda V - Impérium vrací úder",
+      "imgSrc": "sw",
+      "csfd": 89
+    },
+    {
+      "title": "V síti",
+      "imgSrc": "sit",
+      "csfd": 89
+    }
+  ],
+  "category": [
+    {
+      "title": "Akční & dobrodružné",
+      "imgSrc": "akcni"
+    },
+    {
+      "title": "Komedie",
+      "imgSrc": "komedie"
+    },
+    {
+      "title": "Dětské & rodinné",
+      "imgSrc": "detske"
+    },
+    {
+      "title": "České",
+      "imgSrc": "ceske"
+    },
+    {
+      "title": "Thriller & krimi",
+      "imgSrc": "krimi"
+    },
+    {
+      "title": "Horor & sci-fi",
+      "imgSrc": "scifi"
+    },
+    {
+      "title": "Romantické",
+      "imgSrc": "romanticke"
+    },
+    {
+      "title": "Drama",
+      "imgSrc": "drama"
+    },
+    {
+      "title": "Dokumenty",
+      "imgSrc": "dokumenty"
+    },
+    {
+      "title": "Evropské",
+      "imgSrc": "evropske"
+    },
+    {
+      "title": "Všechny A-Z",
+      "imgSrc": "all"
+    }
+  ],
+  "adult": [
+    {
+      "title": "****",
+      "imgSrc": "adult"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+.loading {
+  display: flex;
+  height: calc(100vh - $header-height);
+  max-height: 100%;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: teal;
+  opacity: 0.5;
+  text-align: center;
+}

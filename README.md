@@ -42,4 +42,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 <!-- 
 soubory s fontama asi vymazat kdyz je importuju pres next
 ty scripty v assetech zkusit naimportovat odtamtud nebo pres NPM nebo ze CDN?
+zkusit udelat nejakej placeholder (skeleton) pro nahravani
+asi udelat ve swiperu custom ty navigation buttony at se to lip styluje
+na ten slide hover nepotrebuju dva titly dole, proste udelam ten puvodni na hover asi 
+na ty ruzny swipery bude idealni pouzit podle BEMu ty modifikatory na velikost slidu
  -->

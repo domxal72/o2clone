@@ -16,10 +16,12 @@
     "dragscroll": "^0.0.8",
     "eslint": "8.38.0",
     "eslint-config-next": "13.3.0",
+    "moment": "^2.29.4",
     "next": "13.3.0",
     "postcss": "8.4.21",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "swiper": "^9.2.2",
     "sync-scroll": "^1.0.3",
     "tailwindcss": "3.3.1",
     "typescript": "5.0.4"

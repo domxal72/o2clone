@@ -1,37 +1,41 @@
 import { Open_Sans } from 'next/font/google'
-import Script from 'next/script'
-import syncscroll from 'sync-scroll'
+import { useState, useContext } from 'react'
 
 import Header from './header'
-// import syncscroll from '../assets/scripts/syncscroll'
 
 const roboto = Open_Sans({
   weight: '300',
   subsets: ['latin'],
 })
 
-'use client'
+
 function Layout({ children }) {
+
+  const [scrollTop, setScrollTop] = useState({value: 0, goesDown: false})
+  // useContext()
+
+  const toggleHeader = (e) => {
+    setScrollTop((scrollTop) => {
+      if(e.target.scrollTop - scrollTop.value > 0){
+        console.log('down')
+        return {value: e.target.scrollTop, goesDown: true}
+      } else {
+        console.log('up')
+        return {value: e.target.scrollTop, goesDown: false}
+      }
+    })
+    // e.target
+    // console.log(e.target.scrollTop)
+    // console.log('scr')
+  }
+  
+
   return (
-    <div className={roboto.className}>
-      <Header />
-      <main>{children}</main>
-      <div className="flex">
-        <div className="cont syncscroll" name="elune">
-          <div className="content"></div>
-        </div>
-        <div className="cont syncscroll" name="elune">
-          <div className="content">
-          </div>
-        </div>
+      <div className={roboto.className} onScroll={toggleHeader}>
+      {/* <div className={roboto.className} onClick={toggleHeader}> */}
+        <Header scrollTop={scrollTop} />
+        <main className='main' onScroll={toggleHeader}>{children}</main>
       </div>
-      <div className="hor dragscroll"><div>
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Error corporis blanditiis repellendus recusandae quaerat sequi hic quos animi iure commodi amet omnis eum sed saepe quae laudantium, esse reiciendis odio?
-        </div>  </div>
-      {/* <Script src={syncscroll}></Script> */}
-      <Script src='https://cdn.jsdelivr.net/npm/sync-scroll@1.0.3/syncscroll.min.js'></Script>
-      <Script src='https://cdnjs.cloudflare.com/ajax/libs/dragscroll/0.0.8/dragscroll.min.js'></Script>
-    </div>
   )
 }
 

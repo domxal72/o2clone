@@ -1,0 +1,41 @@
+.channel-list {
+  display: flex;
+  overflow: auto;
+  width: 700px;
+}
+
+.channel-list__item {
+  // width: 100%;
+}
+
+.channel-list__item-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+  height: $channel-height;
+  color: $white;
+  background: $primary;
+  margin: 2px;
+  cursor: pointer;
+  position: relative;
+
+  &:hover {
+    background: $secondary;
+    min-width: 100%;
+    width: max-content;
+    z-index: 1;
+  }
+}
+
+.channel-list__item-name {
+  font-size: 0.8rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.channel-list__item-time {
+  font-size: 0.7rem;
+  opacity: 0.7;
+}

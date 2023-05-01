@@ -4,6 +4,11 @@
 
 @import 'variables';
 @import 'header';
+@import 'loading';
+@import 'page-program';
+@import 'timeline';
+@import 'channel-list';
+@import 'videoteka';
 
 :root {}
 
@@ -15,8 +20,22 @@ html {
 
 body {
   max-width: 100%;
+  background: $dark;
+  height: 2000px;
+}
+
+.main {
+  padding-top: $header-height;
 }
 
 .bg-primary {
   background-color: $primary;
+}
+
+.bg-dark {
+  background-color: $dark;
+}
+
+.button-active {
+  color: $secondary;
 }
