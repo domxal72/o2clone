@@ -4,11 +4,13 @@
 
 @import 'variables';
 @import 'header';
+@import 'footer';
+@import 'button';
+@import 'home';
 @import 'loading';
-@import 'page-program';
 @import 'timeline';
 @import 'channel-list';
-@import 'videoteka';
+@import 'videoteque';
 
 :root {}
 
@@ -21,11 +23,6 @@ html {
 body {
   max-width: 100%;
   background: $dark;
-  height: 2000px;
-}
-
-.main {
-  padding-top: $header-height;
 }
 
 .bg-primary {

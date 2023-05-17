@@ -6,60 +6,67 @@ import logo from '../public/img/o2-logo.png'
 import search from '../public/img/search-icon.svg'
 import account from '../public/img/account-icon.svg'
 import {
+  HOME,
   PROGRAM,
   PREMIUM,
   SPORT,
   DETSKE,
   NAHRAVKY,
-  VIDEOTEKA
+  VIDEOTEQUE
 } from '../routes/routes'
-import { useEffect } from 'react'
 
 const data = [
+  {
+    name: 'Home',
+    route: HOME
+  },
   {
     name: 'Program',
     route: PROGRAM
   },
-  {
-    name: 'Nahrávky',
-    route: NAHRAVKY
-  },
-  {
-    name: 'Sport',
-    route: SPORT
-  },
-  {
-    name: 'Dětské',
-    route: DETSKE
-  },
-  {
-    name: 'Premium',
-    route: PREMIUM
-  },
+  // {
+  //   name: 'Nahrávky',
+  //   route: NAHRAVKY
+  // },
+  // {
+  //   name: 'Sport',
+  //   route: SPORT
+  // },
+  // {
+  //   name: 'Dětské',
+  //   route: DETSKE
+  // },
+  // {
+  //   name: 'Premium',
+  //   route: PREMIUM
+  // },
   {
     name: 'Videotéka',
-    route: VIDEOTEKA
+    route: VIDEOTEQUE
   },
 ]
 
-function Header() {
-
-  useEffect(() =>{
-    console.log('from effect')
-  })
-
-  console.log('from outside')
+function Header({scrollOptions, pageRoute}) {
 
   const router = useRouter()
+  const fixedPages = ['/', SPORT, DETSKE,]
+  const classList = ['header']
+  scrollOptions.scrollY === 0 && classList.push('header--transparent')
+  scrollOptions.isScrollingUp && pageRoute === PROGRAM && classList.push('header--up-scroll')
+  router.route === PROGRAM && classList.push('header--relative')
+  fixedPages.includes(router.route) && classList.push('header--fixed')
 
   return (
-    <header className={`header flex justify-between bg-primary ${router.route === PROGRAM && 'header--relative'}`}>
+    <header className={classList.join(' ')} >
       <div className='flex items-center gap-6'>
-        <Image src={logo} alt='logo' width={65} height={65} />
-        {data.map((item, index) => (
-          <Link href={item.route} key={index} className='header__menu-item'>
-            {item.name}</Link>
-        ))}
+      <Link href='/'>
+        <Image src={logo} alt='logo' width={65} height={65} className='header__menu-item' />
+      </Link>
+      {data.map((item, index) => (
+        <Link href={item.route} key={index} className='header__menu-item'>
+          {item.name}
+        </Link>
+      ))}
       </div>
       <div className="flex">
         <Image src={search} alt='search icon' />

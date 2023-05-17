@@ -1,41 +1,50 @@
 import { Open_Sans } from 'next/font/google'
-import { useState, useContext } from 'react'
+import { useState, useEffect } from 'react'
+
+import { useRouter } from 'next/router'
 
 import Header from './header'
+import Footer from '@/components/footer'
+import ScrollContextProvider from '@/contexts/scroll-context'
 
-const roboto = Open_Sans({
-  weight: '300',
-  subsets: ['latin'],
-})
+const openSans = Open_Sans(
+  {
+    subsets: ['latin'],
+  },
+)
 
 
 function Layout({ children }) {
 
-  const [scrollTop, setScrollTop] = useState({value: 0, goesDown: false})
-  // useContext()
+  const router = useRouter()
+  const [scrollOptions, setScrollOptions] = useState({scrollY: 0, isScrollingUp: false})
 
-  const toggleHeader = (e) => {
-    setScrollTop((scrollTop) => {
-      if(e.target.scrollTop - scrollTop.value > 0){
-        console.log('down')
-        return {value: e.target.scrollTop, goesDown: true}
-      } else {
-        console.log('up')
-        return {value: e.target.scrollTop, goesDown: false}
-      }
-    })
-    // e.target
-    // console.log(e.target.scrollTop)
-    // console.log('scr')
+  const handleScroll = () => {
+    setScrollOptions((scrollOptions) => (
+      {
+        ...scrollOptions,
+        scrollY: window.scrollY,
+        isScrollingUp: (window.scrollY < scrollOptions.scrollY)
+      }))
   }
-  
 
+  useEffect(() => {
+    if((typeof window !== 'undefined')){
+      window.addEventListener("scroll", handleScroll)
+    }
+    return () => {
+      window.removeEventListener('scroll', handleScroll);
+    };
+  }, [])
+  
   return (
-      <div className={roboto.className} onScroll={toggleHeader}>
-      {/* <div className={roboto.className} onClick={toggleHeader}> */}
-        <Header scrollTop={scrollTop} />
-        <main className='main' onScroll={toggleHeader}>{children}</main>
+    <ScrollContextProvider>
+      <div className={openSans.className}>
+        <Header scrollOptions={scrollOptions} pageRoute={router.route} />
+        <main>{children}</main>
+        <Footer />
       </div>
+    </ScrollContextProvider>
   )
 }
 

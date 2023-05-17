@@ -1,5 +1,8 @@
 import React, { useEffect, useState } from 'react'
 import ChannelItem from './channel-item'
+import Image from 'next/image'
+
+import ct1 from '../public/img/channels/ct1.png'
 
 const data = [
   {
@@ -32,22 +35,26 @@ const data = [
   },
 ]
 
-function ChannelList() {
+function ChannelList({program}) {
 
-  const [program, setProgram] = useState(null)
+  // filter one day from data API
+  const dayFilter = program.porad.filter((item) => (item.datum === '2023-04-09'))
 
-  useEffect(() => {
-    (async () => {
-      try {
-        const res = await fetch('http://localhost:5000/program');
-        const data = await res.json();
-        setProgram(data.porad)
-        console.log(data.porad)
-      } catch (error) {
-        console.log(error) 
-      }
-    })();
-  }, [])
+  // for( let i = 0; i < dayFilter.length; i++){
+  //   const [hour, minute] = dayFilter[i].cas.split(':')
+  //   const timeFormat = (Number(hour) * 60 + Number(minute)) - 300
+  //   dayFilter[i].timeFormat = i === 0 ? 5 : timeFormat
+  //   dayFilter[i].minutesLength = i === 0 ? 5 : (timeFormat - (dayFilter[i - 1]?.timeFormat))
+  //   console.log(dayFilter[i].timeFormat, dayFilter[i].minutesLength)
+  // }
+
+  for( let i = 0; i < dayFilter.length - 2; i++){
+    const [hour, minute] = dayFilter[i].cas.split(':')
+    const [hourNext, minuteNext] = dayFilter[i + 1].cas.split(':')
+    dayFilter[i].timeFormat = Number(hour) * 60 + Number(minute)
+    dayFilter[i].minutesLength = (Number(hourNext) * 60 + Number(minuteNext)) - (Number(hour) * 60 + Number(minute))
+    console.log(dayFilter[i].timeFormat, dayFilter[i].minutesLength)
+  }
 
   if(!program){
     return <div>loading program</div>
@@ -61,8 +68,12 @@ function ChannelList() {
         ))}
 
       </div>
-      <div className='channel-list'>
-        {program.map((item, index) => (
+      <div className='channel-list dragscroll syncscroll' name='channels'>
+        <div className='channel-list__channel'>
+          <span className='opacity-50'>1</span>
+          <Image src={ct1} alt='ct1' width={71} height={40} className='max-w-none m-auto' />
+        </div>
+        {dayFilter.map((item, index) => (
           <ChannelItem item={item} key={index} />
         ))}
       </div>

@@ -12,6 +12,17 @@
   }
 }
 
+.timeline__container {
+  position: sticky;
+  top: 0;
+  z-index: $timeline-z5;
+  background: $dark;
+}
+
+.timeline__container--up-scroll {
+  top: $header-height;
+}
+
 .timeline__item {
   font-size: 0.8rem;
   flex-grow: 1;

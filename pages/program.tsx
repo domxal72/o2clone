@@ -8,7 +8,17 @@ import moment from 'moment'
 import Timeline from '../components/timeline'
 import ChannelList from '@/components/channel-list';
 
-function Program() {
+export const getServerSideProps = async () => {
+
+  const res = await fetch('http://localhost:3000/api/program')
+  const data = await res.json()
+
+  return {
+    props: data
+  }
+}
+
+function Program({program}) {
 
   const [days, setDays] = useState([])
   const [hours, setHours] = useState([])
@@ -25,7 +35,7 @@ function Program() {
     }
     setDays(days);
 
-    const nHours = 5 
+    const nHours = 12 
     const hours = [];
     for (let i = -nHours; i < nHours; i++) {
       const hour = moment().add(i, 'hours').startOf('hour').format('h:mm');
@@ -38,10 +48,11 @@ function Program() {
     return <div>loading...</div>
   }
 
+
   return (
     <>
       <Timeline days={days} hours={hours} />
-        <ChannelList />
+        <ChannelList program={program} />
       <Script src='https://cdn.jsdelivr.net/npm/sync-scroll@1.0.3/syncscroll.min.js'></Script>
       <Script src='https://cdnjs.cloudflare.com/ajax/libs/dragscroll/0.0.8/dragscroll.min.js'></Script>
     </>

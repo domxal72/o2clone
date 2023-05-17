@@ -1,0 +1,2470 @@
+{
+  "program": {
+    "porad": [
+      {
+        "linky": {
+          "program": "http://www.ceskatelevize.cz/porady/1178166846-zpravy/223411007000409/",
+          "ivysilani": "http://www.ceskatelevize.cz/ivysilani/1178166846-zpravy/223411007000409/"
+        },
+        "vps": "A09040700",
+        "datum": "2023-04-09",
+        "cas": "07:00",
+        "nazvy": {
+          "nadtitul": "",
+          "nazev": "Zprávy",
+          "original": "",
+          "nazev_casti": ""
+        },
+        "dil": "",
+        "zanr": "Zpravodajství",
+        "stopaz": "005:00",
+        "noticka": "",
+        "regionalni": "N",
+        "alternativa": "N",
+        "ikonky": {
+          "zvuk": "S",
+          "skryte_titulky": 1,
+          "neslysici": 0,
+          "ad": 0,
+          "live": 0,
+          "premiera": 1,
+          "cb": 0,
+          "hvezdicka": 0,
+          "labeling": "",
+          "puvodni_zneni": 0,
+          "pomer": "16:9",
+          "hd": 1
+        },
+        "obrazky": {
+          "tv_program": "http://img.ceskatelevize.cz/program/porady/1178166846/foto/program.jpg",
+          "nahled": "http://img.ceskatelevize.cz/program/porady/1178166846/foto/uni.jpg"
+        },
+        "dostupnost": {
+          "stav": "ano",
+          "od": "",
+          "do": ""
+        }
+      },
+      {
+        "linky": {
+          "program": "http://www.ceskatelevize.cz/porady/12094108610-regiony-ct24/323281381960408/",
+          "ivysilani": "http://www.ceskatelevize.cz/ivysilani/12094108610-regiony-ct24/323281381960408/"
+        },
+        "vps": "A09040705",
+        "datum": "2023-04-09",
+        "cas": "07:05",
+        "nazvy": {
+          "nadtitul": "",
+          "nazev": "Regiony ČT24",
+          "original": "",
+          "nazev_casti": ""
+        },
+        "dil": "",
+        "zanr": "Zpravodajství",
+        "stopaz": "053:07",
+        "noticka": "Pořad, zaměřený na důležité a zajímavé dění ve všech regionech ČR. Pořad se věnuje tématům společným pro více regionů, kde existují různé způsoby řešení určitého problému, více názorů a úhlů pohledu na dané téma. Chybět nebudou vstupy, stejně tak práce iReportérů a regionální dění na sociálních sítích",
+        "regionalni": "N",
+        "alternativa": "N",
+        "ikonky": {
+          "zvuk": "S",
+          "skryte_titulky": 1,
+          "neslysici": 0,
+          "ad": 0,
+          "live": 0,
+          "premiera": 0,
+          "cb": 0,
+          "hvezdicka": 0,
+          "labeling": "",
+          "puvodni_zneni": 0,
+          "pomer": "16:9",
+          "hd": 1
+        },
+        "obrazky": {
+          "tv_program": "http://img.ceskatelevize.cz/program/porady/12094108610/foto/program.jpg",
+          "nahled": "http://img.ceskatelevize.cz/program/porady/12094108610/foto/uni.jpg"
+        },
+        "dostupnost": {
+          "stav": "ano",
+          "od": "",
+          "do": ""
+        }
+      },
+      {
+        "linky": {
+          "program": "http://www.ceskatelevize.cz/porady/1178166846-zpravy/223411008000409/",
+          "ivysilani": "http://www.ceskatelevize.cz/ivysilani/1178166846-zpravy/223411008000409/"
+        },
+        "vps": "A09040800",
+        "datum": "2023-04-09",
+        "cas": "08:00",
+        "nazvy": {
+          "nadtitul": "",
+          "nazev": "Zprávy",
+          "original": "",
+          "nazev_casti": ""
+        },
+        "dil": "",
+        "zanr": "Zpravodajství",
+        "stopaz": "028:00",
+        "noticka": "",
+        "regionalni": "N",
+        "alternativa": "N",
+        "ikonky": {
+          "zvuk": "S",
+          "skryte_titulky": 1,
+          "neslysici": 0,
+          "ad": 0,
+          "live": 0,
+          "premiera": 1,
+          "cb": 0,
+          "hvezdicka": 0,
+          "labeling": "",
+          "puvodni_zneni": 0,
+          "pomer": "16:9",
+          "hd": 1
+        },
+        "obrazky": {
+          "tv_program": "http://img.ceskatelevize.cz/program/porady/1178166846/foto/program.jpg",
+          "nahled": "http://img.ceskatelevize.cz/program/porady/1178166846/foto/uni.jpg"
+        },
+        "dostupnost": {
+          "stav": "ano",
+          "od": "",
+          "do": ""
+        }
+      },
+      {
+        "linky": {
+          "program": "http://www.ceskatelevize.cz/porady/10116288585-archiv-ct24/223411058210012/",
+          "ivysilani": "http://www.ceskatelevize.cz/ivysilani/10116288585-archiv-ct24/223411058210012/"
+        },
+        "vps": "A09040831",
+        "datum": "2023-04-09",
+        "cas": "08:31",
+        "nazvy": {
+          "nadtitul": "",
+          "nazev": "Archiv ČT24",
+          "original": "",
+          "nazev_casti": ""
+        },
+        "dil": "",
+        "zanr": "Magazíny",
+        "stopaz": "026:08",
+        "noticka": "Zvony, zvonaři, zvoníci Jaké byly osudy zvonů a zvonků u nás.",
+        "regionalni": "N",
+        "alternativa": "N",
+        "ikonky": {
+          "zvuk": "S",
+          "skryte_titulky": 1,
+          "neslysici": 0,
+          "ad": 0,
+          "live": 0,
+          "premiera": 0,
+          "cb": 0,
+          "hvezdicka": 0,
+          "labeling": "",
+          "puvodni_zneni": 0,
+          "pomer": "16:9",
+          "hd": 1
+        },
+        "obrazky": {
+          "tv_program": "http://img.ceskatelevize.cz/program/porady/10116288585/foto/program.jpg",
+          "nahled": "http://img.ceskatelevize.cz/program/porady/10116288585/foto/uni.jpg"
+        },
+        "dostupnost": {
+          "stav": "ano",
+          "od": "",
+          "do": ""
+        }
+      },
+      {
+        "linky": {
+          "program": "http://www.ceskatelevize.cz/porady/1178166846-zpravy/223411009000409/",
+          "ivysilani": "http://www.ceskatelevize.cz/ivysilani/1178166846-zpravy/223411009000409/"
+        },
+        "vps": "A09040900",
+        "datum": "2023-04-09",
+        "cas": "09:00",
+        "nazvy": {
+          "nadtitul": "",
+          "nazev": "Zprávy",
+          "original": "",
+          "nazev_casti": ""
+        },
+        "dil": "",
+        "zanr": "Zpravodajství",
+        "stopaz": "005:00",
+        "noticka": "",
+        "regionalni": "N",
+        "alternativa": "N",
+        "ikonky": {
+          "zvuk": "S",
+          "skryte_titulky": 1,
+          "neslysici": 0,
+          "ad": 0,
+          "live": 0,
+          "premiera": 1,
+          "cb": 0,
+          "hvezdicka": 0,
+          "labeling": "",
+          "puvodni_zneni": 0,
+          "pomer": "16:9",
+          "hd": 1
+        },
+        "obrazky": {
+          "tv_program": "http://img.ceskatelevize.cz/program/porady/1178166846/foto/program.jpg",
+          "nahled": "http://img.ceskatelevize.cz/program/porady/1178166846/foto/uni.jpg"
+        },
+        "dostupnost": {
+          "stav": "ano",
+          "od": "",
+          "do": ""
+        }
+      },
+      {
+        "linky": {
+          "program": "http://www.ceskatelevize.cz/porady/10150778447-historie-cs/223411058220010/",
+          "ivysilani": "http://www.ceskatelevize.cz/ivysilani/10150778447-historie-cs/223411058220010/"
+        },
+        "vps": "A09040905",
+        "datum": "2023-04-09",
+        "cas": "09:05",
+        "nazvy": {
+          "nadtitul": "",
+          "nazev": "Historie.cs",
+          "original": "",
+          "nazev_casti": ""
+        },
+        "dil": "",
+        "zanr": "Publicistika",
+        "stopaz": "052:05",
+        "noticka": "DDR, naši soudruzi nejbližší. Sovětský žolík v politice se Západem. Co jsme měli společného a jak jsme se srovnávali s Německou demokratickou republikou? A v čem jsme si nelítostně konkurovali a která ze zemí byla nakonec blíž krachu?",
+        "regionalni": "N",
+        "alternativa": "N",
+        "ikonky": {
+          "zvuk": "S",
+          "skryte_titulky": 1,
+          "neslysici": 0,
+          "ad": 0,
+          "live": 0,
+          "premiera": 0,
+          "cb": 0,
+          "hvezdicka": 0,
+          "labeling": "",
+          "puvodni_zneni": 0,
+          "pomer": "16:9",
+          "hd": 1
+        },
+        "obrazky": {
+          "tv_program": "http://img.ceskatelevize.cz/program/porady/10150778447/foto/program.gif",
+          "nahled": "http://img.ceskatelevize.cz/program/porady/10150778447/foto/uni_223411058220010.jpg"
+        },
+        "dostupnost": {
+          "stav": "ano",
+          "od": "",
+          "do": ""
+        }
+      },
+      {
+        "linky": {
+          "program": "http://www.ceskatelevize.cz/porady/10498629597-zpravy-v-10/223411010000409/",
+          "ivysilani": "http://www.ceskatelevize.cz/ivysilani/10498629597-zpravy-v-10/223411010000409/"
+        },
+        "vps": "A09041000",
+        "datum": "2023-04-09",
+        "cas": "10:00",
+        "nazvy": {
+          "nadtitul": "",
+          "nazev": "Zprávy v 10",
+          "original": "",
+          "nazev_casti": ""
+        },
+        "dil": "",
+        "zanr": "Zpravodajství",
+        "stopaz": "028:00",
+        "noticka": "",
+        "regionalni": "N",
+        "alternativa": "N",
+        "ikonky": {
+          "zvuk": "S",
+          "skryte_titulky": 1,
+          "neslysici": 0,
+          "ad": 0,
+          "live": 0,
+          "premiera": 1,
+          "cb": 0,
+          "hvezdicka": 0,
+          "labeling": "",
+          "puvodni_zneni": 0,
+          "pomer": "16:9",
+          "hd": 1
+        },
+        "obrazky": {
+          "tv_program": "http://img.ceskatelevize.cz/program/porady/10498629597/foto/program.jpg",
+          "nahled": "http://img.ceskatelevize.cz/program/porady/10498629597/foto/uni.jpg"
+        },
+        "dostupnost": {
+          "stav": "omezeno",
+          "od": "2023-04-09 10:00:00",
+          "do": ""
+        }
+      },
+      {
+        "linky": {
+          "program": "http://www.ceskatelevize.cz/porady/11633975240-veda-24/223411058340012/",
+          "ivysilani": "http://www.ceskatelevize.cz/ivysilani/11633975240-veda-24/223411058340012/"
+        },
+        "vps": "A09041031",
+        "datum": "2023-04-09",
+        "cas": "10:31",
+        "nazvy": {
+          "nadtitul": "",
+          "nazev": "Věda 24",
+          "original": "",
+          "nazev_casti": ""
+        },
+        "dil": "",
+        "zanr": "Magazíny",
+        "stopaz": "029:43",
+        "noticka": "Týdenní souhrn toho nejdůležitějšího z oblasti světové i české vědy",
+        "regionalni": "N",
+        "alternativa": "N",
+        "ikonky": {
+          "zvuk": "S",
+          "skryte_titulky": 1,
+          "neslysici": 0,
+          "ad": 0,
+          "live": 0,
+          "premiera": 1,
+          "cb": 0,
+          "hvezdicka": 0,
+          "labeling": "",
+          "puvodni_zneni": 0,
+          "pomer": "16:9",
+          "hd": 1
+        },
+        "obrazky": {
+          "tv_program": "http://img.ceskatelevize.cz/program/porady/11633975240/foto/program.jpg",
+          "nahled": "http://img.ceskatelevize.cz/program/porady/11633975240/foto/uni.jpg"
+        },
+        "dostupnost": {
+          "stav": "omezeno",
+          "od": "2023-04-09 10:31:00",
+          "do": ""
+        }
+      },
+      {
+        "linky": {
+          "program": "http://www.ceskatelevize.cz/porady/1178166846-zpravy/223411011000409/",
+          "ivysilani": "http://www.ceskatelevize.cz/ivysilani/1178166846-zpravy/223411011000409/"
+        },
+        "vps": "A09041100",
+        "datum": "2023-04-09",
+        "cas": "11:00",
+        "nazvy": {
+          "nadtitul": "",
+          "nazev": "Zprávy",
+          "original": "",
+          "nazev_casti": ""
+        },
+        "dil": "",
+        "zanr": "Zpravodajství",
+        "stopaz": "005:00",
+        "noticka": "",
+        "regionalni": "N",
+        "alternativa": "N",
+        "ikonky": {
+          "zvuk": "S",
+          "skryte_titulky": 1,
+          "neslysici": 0,
+          "ad": 0,
+          "live": 0,
+          "premiera": 1,
+          "cb": 0,
+          "hvezdicka": 0,
+          "labeling": "",
+          "puvodni_zneni": 0,
+          "pomer": "16:9",
+          "hd": 1
+        },
+        "obrazky": {
+          "tv_program": "http://img.ceskatelevize.cz/program/porady/1178166846/foto/program.jpg",
+          "nahled": "http://img.ceskatelevize.cz/program/porady/1178166846/foto/uni.jpg"
+        },
+        "dostupnost": {
+          "stav": "omezeno",
+          "od": "2023-04-09 11:00:00",
+          "do": ""
+        }
+      },
+      {
+        "linky": {
+          "program": "http://www.ceskatelevize.cz/porady/10441294653-hyde-park-civilizace/223411058090408/",
+          "ivysilani": "http://www.ceskatelevize.cz/ivysilani/10441294653-hyde-park-civilizace/223411058090408/"
+        },
+        "vps": "A09041105",
+        "datum": "2023-04-09",
+        "cas": "11:05",
+        "nazvy": {
+          "nadtitul": "",
+          "nazev": "Hyde Park Civilizace",
+          "original": "",
+          "nazev_casti": ""
+        },
+        "dil": "",
+        "zanr": "Magazíny",
+        "stopaz": "055:15",
+        "noticka": "Mapy. Proč nám někdy lžou? Co všechno umí říct? A jak je správně číst? V Hyde Parku Civilizace odpoví geograf, kartograf a profesor geoinformatiky z UPOL Vít Voženílek, autor osmi tematických atlasů. Přežije podle něj i v době GPS papírová mapa? V Hyde Parku Civilizace odpoví člověk, který říká: \"Vím, že už neobjevím nový ostrov, ale můžu v různých oborech otevírat nové komnaty plné map, které otevřou nové obzory.\"",
+        "regionalni": "N",
+        "alternativa": "N",
+        "ikonky": {
+          "zvuk": "S",
+          "skryte_titulky": 1,
+          "neslysici": 0,
+          "ad": 0,
+          "live": 0,
+          "premiera": 0,
+          "cb": 0,
+          "hvezdicka": 0,
+          "labeling": "",
+          "puvodni_zneni": 0,
+          "pomer": "16:9",
+          "hd": 1
+        },
+        "obrazky": {
+          "tv_program": "http://img.ceskatelevize.cz/program/porady/10441294653/foto/program.jpg",
+          "nahled": "http://img.ceskatelevize.cz/program/porady/10441294653/foto/uni_223411058090408.jpg"
+        },
+        "dostupnost": {
+          "stav": "ano",
+          "od": "",
+          "do": ""
+        }
+      },
+      {
+        "linky": {
+          "program": "http://www.ceskatelevize.cz/porady/10253066674-zpravy-ve-12/223411012000409/",
+          "ivysilani": "http://www.ceskatelevize.cz/ivysilani/10253066674-zpravy-ve-12/223411012000409/"
+        },
+        "vps": "A09041200",
+        "datum": "2023-04-09",
+        "cas": "12:00",
+        "nazvy": {
+          "nadtitul": "",
+          "nazev": "Zprávy ve 12",
+          "original": "",
+          "nazev_casti": ""
+        },
+        "dil": "",
+        "zanr": "Zpravodajství",
+        "stopaz": "030:00",
+        "noticka": "Nejdůležitější události dne v ČR i ve světě",
+        "regionalni": "N",
+        "alternativa": "N",
+        "ikonky": {
+          "zvuk": "S",
+          "skryte_titulky": 1,
+          "neslysici": 0,
+          "ad": 0,
+          "live": 0,
+          "premiera": 1,
+          "cb": 0,
+          "hvezdicka": 0,
+          "labeling": "",
+          "puvodni_zneni": 0,
+          "pomer": "16:9",
+          "hd": 1
+        },
+        "obrazky": {
+          "tv_program": "http://img.ceskatelevize.cz/program/porady/10253066674/foto/program.jpg",
+          "nahled": "http://img.ceskatelevize.cz/program/porady/10253066674/foto/uni.jpg"
+        },
+        "dostupnost": {
+          "stav": "omezeno",
+          "od": "2023-04-09 12:00:00",
+          "do": ""
+        }
+      },
+      {
+        "linky": {
+          "program": "http://www.ceskatelevize.cz/porady/15560675929-rok-valky/223411033370001-rozdeleni-valkou/",
+          "ivysilani": "http://www.ceskatelevize.cz/ivysilani/15560675929-rok-valky/223411033370001-rozdeleni-valkou/"
+        },
+        "vps": "A09041232",
+        "datum": "2023-04-09",
+        "cas": "12:32",
+        "nazvy": {
+          "nadtitul": "",
+          "nazev": "Rozděleni válkou",
+          "original": "",
+          "nazev_casti": ""
+        },
+        "dil": "",
+        "zanr": "Zpravodajství",
+        "stopaz": "024:57",
+        "noticka": "",
+        "regionalni": "N",
+        "alternativa": "N",
+        "ikonky": {
+          "zvuk": "S",
+          "skryte_titulky": 1,
+          "neslysici": 0,
+          "ad": 0,
+          "live": 0,
+          "premiera": 0,
+          "cb": 0,
+          "hvezdicka": 0,
+          "labeling": "",
+          "puvodni_zneni": 0,
+          "pomer": "16:9",
+          "hd": 1
+        },
+        "obrazky": {
+          "tv_program": "http://img.ceskatelevize.cz/program/porady/15560675929/foto/program.jpg",
+          "nahled": "http://img.ceskatelevize.cz/program/porady/15560675929/foto/uni_223411033370001.jpg"
+        },
+        "dostupnost": {
+          "stav": "ano",
+          "od": "",
+          "do": ""
+        }
+      },
+      {
+        "linky": {
+          "program": "http://www.ceskatelevize.cz/porady/1178166846-zpravy/223411013000409/",
+          "ivysilani": "http://www.ceskatelevize.cz/ivysilani/1178166846-zpravy/223411013000409/"
+        },
+        "vps": "A09041300",
+        "datum": "2023-04-09",
+        "cas": "13:00",
+        "nazvy": {
+          "nadtitul": "",
+          "nazev": "Zprávy",
+          "original": "",
+          "nazev_casti": ""
+        },
+        "dil": "",
+        "zanr": "Zpravodajství",
+        "stopaz": "005:00",
+        "noticka": "",
+        "regionalni": "N",
+        "alternativa": "N",
+        "ikonky": {
+          "zvuk": "S",
+          "skryte_titulky": 1,
+          "neslysici": 0,
+          "ad": 0,
+          "live": 0,
+          "premiera": 1,
+          "cb": 0,
+          "hvezdicka": 0,
+          "labeling": "",
+          "puvodni_zneni": 0,
+          "pomer": "16:9",
+          "hd": 1
+        },
+        "obrazky": {
+          "tv_program": "http://img.ceskatelevize.cz/program/porady/1178166846/foto/program.jpg",
+          "nahled": "http://img.ceskatelevize.cz/program/porady/1178166846/foto/uni.jpg"
+        },
+        "dostupnost": {
+          "stav": "omezeno",
+          "od": "2023-04-09 13:00:00",
+          "do": ""
+        }
+      },
+      {
+        "linky": {
+          "program": "http://www.ceskatelevize.cz/porady/10116288835-z-metropole/223411058230014/",
+          "ivysilani": "http://www.ceskatelevize.cz/ivysilani/10116288835-z-metropole/223411058230014/"
+        },
+        "vps": "A09041305",
+        "datum": "2023-04-09",
+        "cas": "13:05",
+        "nazvy": {
+          "nadtitul": "",
+          "nazev": "Z metropole",
+          "original": "",
+          "nazev_casti": ""
+        },
+        "dil": "",
+        "zanr": "Magazíny",
+        "stopaz": "025:59",
+        "noticka": "Souhrn toho nejdůležitějšího, co se událo v Praze v uplynulých sedmi dnech",
+        "regionalni": "N",
+        "alternativa": "N",
+        "ikonky": {
+          "zvuk": "S",
+          "skryte_titulky": 1,
+          "neslysici": 0,
+          "ad": 1,
+          "live": 0,
+          "premiera": 0,
+          "cb": 0,
+          "hvezdicka": 0,
+          "labeling": "",
+          "puvodni_zneni": 0,
+          "pomer": "16:9",
+          "hd": 1
+        },
+        "obrazky": {
+          "tv_program": "http://img.ceskatelevize.cz/program/porady/10116288835/foto/program.jpg",
+          "nahled": "http://img.ceskatelevize.cz/program/porady/10116288835/foto/uni.jpg"
+        },
+        "dostupnost": {
+          "stav": "ano",
+          "od": "",
+          "do": ""
+        }
+      },
+      {
+        "linky": {
+          "program": "http://www.ceskatelevize.cz/porady/10095529394-tyden-v-kulture/223411058240014/",
+          "ivysilani": "http://www.ceskatelevize.cz/ivysilani/10095529394-tyden-v-kulture/223411058240014/"
+        },
+        "vps": "A09041332",
+        "datum": "2023-04-09",
+        "cas": "13:32",
+        "nazvy": {
+          "nadtitul": "",
+          "nazev": "Týden v kultuře",
+          "original": "",
+          "nazev_casti": ""
+        },
+        "dil": "",
+        "zanr": "Magazíny",
+        "stopaz": "025:13",
+        "noticka": "Víkendový týdeník s hosty",
+        "regionalni": "N",
+        "alternativa": "N",
+        "ikonky": {
+          "zvuk": "S",
+          "skryte_titulky": 1,
+          "neslysici": 0,
+          "ad": 0,
+          "live": 0,
+          "premiera": 0,
+          "cb": 0,
+          "hvezdicka": 0,
+          "labeling": "",
+          "puvodni_zneni": 0,
+          "pomer": "16:9",
+          "hd": 1
+        },
+        "obrazky": {
+          "tv_program": "http://img.ceskatelevize.cz/program/porady/10095529394/foto/program.jpg",
+          "nahled": "http://img.ceskatelevize.cz/program/porady/10095529394/foto/uni.jpg"
+        },
+        "dostupnost": {
+          "stav": "ano",
+          "od": "",
+          "do": ""
+        }
+      },
+      {
+        "linky": {
+          "program": "http://www.ceskatelevize.cz/porady/1178166846-zpravy/223411014000409/",
+          "ivysilani": "http://www.ceskatelevize.cz/ivysilani/1178166846-zpravy/223411014000409/"
+        },
+        "vps": "A09041400",
+        "datum": "2023-04-09",
+        "cas": "14:00",
+        "nazvy": {
+          "nadtitul": "",
+          "nazev": "Zprávy",
+          "original": "",
+          "nazev_casti": ""
+        },
+        "dil": "",
+        "zanr": "Zpravodajství",
+        "stopaz": "003:00",
+        "noticka": "",
+        "regionalni": "N",
+        "alternativa": "N",
+        "ikonky": {
+          "zvuk": "S",
+          "skryte_titulky": 1,
+          "neslysici": 0,
+          "ad": 0,
+          "live": 0,
+          "premiera": 1,
+          "cb": 0,
+          "hvezdicka": 0,
+          "labeling": "",
+          "puvodni_zneni": 0,
+          "pomer": "16:9",
+          "hd": 1
+        },
+        "obrazky": {
+          "tv_program": "http://img.ceskatelevize.cz/program/porady/1178166846/foto/program.jpg",
+          "nahled": "http://img.ceskatelevize.cz/program/porady/1178166846/foto/uni.jpg"
+        },
+        "dostupnost": {
+          "stav": "omezeno",
+          "od": "2023-04-09 14:00:00",
+          "do": ""
+        }
+      },
+      {
+        "linky": {
+          "program": "http://www.ceskatelevize.cz/porady/10101491767-studio-ct24/223411058070409/",
+          "ivysilani": "http://www.ceskatelevize.cz/ivysilani/10101491767-studio-ct24/223411058070409/"
+        },
+        "vps": "A09041403",
+        "datum": "2023-04-09",
+        "cas": "14:03",
+        "nazvy": {
+          "nadtitul": "",
+          "nazev": "Studio ČT24",
+          "original": "",
+          "nazev_casti": ""
+        },
+        "dil": "",
+        "zanr": "Magazíny",
+        "stopaz": "057:00",
+        "noticka": "Aktuální zpravodajství v politice, ekonomice, kultuře i sportu, komentáře, analýzy, specializované informace o životě lidí v jiných světadílech",
+        "regionalni": "N",
+        "alternativa": "N",
+        "ikonky": {
+          "zvuk": "S",
+          "skryte_titulky": 0,
+          "neslysici": 0,
+          "ad": 0,
+          "live": 0,
+          "premiera": 1,
+          "cb": 0,
+          "hvezdicka": 0,
+          "labeling": "",
+          "puvodni_zneni": 0,
+          "pomer": "16:9",
+          "hd": 1
+        },
+        "obrazky": {
+          "tv_program": "http://img.ceskatelevize.cz/program/porady/10101491767/foto/program.jpg",
+          "nahled": "http://img.ceskatelevize.cz/program/porady/10101491767/foto/uni.jpg"
+        },
+        "dostupnost": {
+          "stav": "omezeno",
+          "od": "2023-04-09 14:03:00",
+          "do": ""
+        }
+      },
+      {
+        "linky": {
+          "program": "http://www.ceskatelevize.cz/porady/1178166846-zpravy/223411015000409/",
+          "ivysilani": "http://www.ceskatelevize.cz/ivysilani/1178166846-zpravy/223411015000409/"
+        },
+        "vps": "A09041500",
+        "datum": "2023-04-09",
+        "cas": "15:00",
+        "nazvy": {
+          "nadtitul": "",
+          "nazev": "Zprávy",
+          "original": "",
+          "nazev_casti": ""
+        },
+        "dil": "",
+        "zanr": "Zpravodajství",
+        "stopaz": "003:00",
+        "noticka": "",
+        "regionalni": "N",
+        "alternativa": "N",
+        "ikonky": {
+          "zvuk": "S",
+          "skryte_titulky": 1,
+          "neslysici": 0,
+          "ad": 0,
+          "live": 0,
+          "premiera": 1,
+          "cb": 0,
+          "hvezdicka": 0,
+          "labeling": "",
+          "puvodni_zneni": 0,
+          "pomer": "16:9",
+          "hd": 1
+        },
+        "obrazky": {
+          "tv_program": "http://img.ceskatelevize.cz/program/porady/1178166846/foto/program.jpg",
+          "nahled": "http://img.ceskatelevize.cz/program/porady/1178166846/foto/uni.jpg"
+        },
+        "dostupnost": {
+          "stav": "omezeno",
+          "od": "2023-04-09 15:00:00",
+          "do": ""
+        }
+      },
+      {
+        "linky": {
+          "program": "http://www.ceskatelevize.cz/porady/10101491767-studio-ct24/223411058300409/",
+          "ivysilani": "http://www.ceskatelevize.cz/ivysilani/10101491767-studio-ct24/223411058300409/"
+        },
+        "vps": "A09041503",
+        "datum": "2023-04-09",
+        "cas": "15:03",
+        "nazvy": {
+          "nadtitul": "",
+          "nazev": "Studio ČT24",
+          "original": "",
+          "nazev_casti": ""
+        },
+        "dil": "",
+        "zanr": "Magazíny",
+        "stopaz": "057:00",
+        "noticka": "Aktuální rozhovory na aktuální témata v ČR i ve světě. Možnost přerušení vysílání v důsledku přímých přenosů z významných akcí",
+        "regionalni": "N",
+        "alternativa": "N",
+        "ikonky": {
+          "zvuk": "S",
+          "skryte_titulky": 0,
+          "neslysici": 0,
+          "ad": 0,
+          "live": 0,
+          "premiera": 1,
+          "cb": 0,
+          "hvezdicka": 0,
+          "labeling": "",
+          "puvodni_zneni": 0,
+          "pomer": "16:9",
+          "hd": 1
+        },
+        "obrazky": {
+          "tv_program": "http://img.ceskatelevize.cz/program/porady/10101491767/foto/program.jpg",
+          "nahled": "http://img.ceskatelevize.cz/program/porady/10101491767/foto/uni.jpg"
+        },
+        "dostupnost": {
+          "stav": "omezeno",
+          "od": "2023-04-09 15:03:00",
+          "do": ""
+        }
+      },
+      {
+        "linky": {
+          "program": "http://www.ceskatelevize.cz/porady/10253214196-zpravy-v-16/223411016000409/",
+          "ivysilani": "http://www.ceskatelevize.cz/ivysilani/10253214196-zpravy-v-16/223411016000409/"
+        },
+        "vps": "A09041600",
+        "datum": "2023-04-09",
+        "cas": "16:00",
+        "nazvy": {
+          "nadtitul": "",
+          "nazev": "Zprávy v 16",
+          "original": "",
+          "nazev_casti": ""
+        },
+        "dil": "",
+        "zanr": "Zpravodajství",
+        "stopaz": "003:00",
+        "noticka": "Nejdůležitější události dne v ČR i ve světě",
+        "regionalni": "N",
+        "alternativa": "N",
+        "ikonky": {
+          "zvuk": "S",
+          "skryte_titulky": 0,
+          "neslysici": 1,
+          "ad": 0,
+          "live": 0,
+          "premiera": 1,
+          "cb": 0,
+          "hvezdicka": 0,
+          "labeling": "",
+          "puvodni_zneni": 0,
+          "pomer": "16:9",
+          "hd": 1
+        },
+        "obrazky": {
+          "tv_program": "http://img.ceskatelevize.cz/program/porady/10253214196/foto/program.jpg",
+          "nahled": "http://img.ceskatelevize.cz/program/porady/10253214196/foto/uni.jpg"
+        },
+        "dostupnost": {
+          "stav": "omezeno",
+          "od": "2023-04-09 16:00:00",
+          "do": ""
+        }
+      },
+      {
+        "linky": {
+          "program": "http://www.ceskatelevize.cz/porady/10101491767-studio-ct24/223411058310409/",
+          "ivysilani": "http://www.ceskatelevize.cz/ivysilani/10101491767-studio-ct24/223411058310409/"
+        },
+        "vps": "A09041603",
+        "datum": "2023-04-09",
+        "cas": "16:03",
+        "nazvy": {
+          "nadtitul": "",
+          "nazev": "Studio ČT24",
+          "original": "",
+          "nazev_casti": ""
+        },
+        "dil": "",
+        "zanr": "Magazíny",
+        "stopaz": "057:00",
+        "noticka": "Aktuální rozhovory na aktuální témata v ČR i ve světě. Možnost přerušení vysílání v důsledku přímých přenosů z významných akcí",
+        "regionalni": "N",
+        "alternativa": "N",
+        "ikonky": {
+          "zvuk": "S",
+          "skryte_titulky": 0,
+          "neslysici": 0,
+          "ad": 0,
+          "live": 0,
+          "premiera": 1,
+          "cb": 0,
+          "hvezdicka": 0,
+          "labeling": "",
+          "puvodni_zneni": 0,
+          "pomer": "16:9",
+          "hd": 1
+        },
+        "obrazky": {
+          "tv_program": "http://img.ceskatelevize.cz/program/porady/10101491767/foto/program.jpg",
+          "nahled": "http://img.ceskatelevize.cz/program/porady/10101491767/foto/uni.jpg"
+        },
+        "dostupnost": {
+          "stav": "omezeno",
+          "od": "2023-04-09 16:03:00",
+          "do": ""
+        }
+      },
+      {
+        "linky": {
+          "program": "http://www.ceskatelevize.cz/porady/1178166846-zpravy/223411017000409/",
+          "ivysilani": "http://www.ceskatelevize.cz/ivysilani/1178166846-zpravy/223411017000409/"
+        },
+        "vps": "A09041700",
+        "datum": "2023-04-09",
+        "cas": "17:00",
+        "nazvy": {
+          "nadtitul": "",
+          "nazev": "Zprávy",
+          "original": "",
+          "nazev_casti": ""
+        },
+        "dil": "",
+        "zanr": "Zpravodajství",
+        "stopaz": "003:00",
+        "noticka": "",
+        "regionalni": "N",
+        "alternativa": "N",
+        "ikonky": {
+          "zvuk": "S",
+          "skryte_titulky": 1,
+          "neslysici": 0,
+          "ad": 1,
+          "live": 0,
+          "premiera": 1,
+          "cb": 0,
+          "hvezdicka": 0,
+          "labeling": "",
+          "puvodni_zneni": 0,
+          "pomer": "16:9",
+          "hd": 1
+        },
+        "obrazky": {
+          "tv_program": "http://img.ceskatelevize.cz/program/porady/1178166846/foto/program.jpg",
+          "nahled": "http://img.ceskatelevize.cz/program/porady/1178166846/foto/uni.jpg"
+        },
+        "dostupnost": {
+          "stav": "omezeno",
+          "od": "2023-04-09 17:00:00",
+          "do": ""
+        }
+      },
+      {
+        "linky": {
+          "program": "http://www.ceskatelevize.cz/porady/10101491767-studio-ct24/223411058250409/",
+          "ivysilani": "http://www.ceskatelevize.cz/ivysilani/10101491767-studio-ct24/223411058250409/"
+        },
+        "vps": "A09041703",
+        "datum": "2023-04-09",
+        "cas": "17:03",
+        "nazvy": {
+          "nadtitul": "",
+          "nazev": "Studio ČT24",
+          "original": "",
+          "nazev_casti": ""
+        },
+        "dil": "",
+        "zanr": "Magazíny",
+        "stopaz": "050:00",
+        "noticka": "Aktuální rozhovory na aktuální témata v ČR i ve světě. Možnost přerušení vysílání v důsledku přímých přenosů z významných akcí",
+        "regionalni": "N",
+        "alternativa": "N",
+        "ikonky": {
+          "zvuk": "S",
+          "skryte_titulky": 0,
+          "neslysici": 0,
+          "ad": 0,
+          "live": 0,
+          "premiera": 1,
+          "cb": 0,
+          "hvezdicka": 0,
+          "labeling": "",
+          "puvodni_zneni": 0,
+          "pomer": "16:9",
+          "hd": 1
+        },
+        "obrazky": {
+          "tv_program": "http://img.ceskatelevize.cz/program/porady/10101491767/foto/program.jpg",
+          "nahled": "http://img.ceskatelevize.cz/program/porady/10101491767/foto/uni.jpg"
+        },
+        "dostupnost": {
+          "stav": "omezeno",
+          "od": "2023-04-09 17:03:00",
+          "do": ""
+        }
+      },
+      {
+        "linky": {
+          "program": "http://www.ceskatelevize.cz/porady/1178166999-predpoved-pocasi/223411000410409/",
+          "ivysilani": "http://www.ceskatelevize.cz/ivysilani/1178166999-predpoved-pocasi/223411000410409/"
+        },
+        "vps": "A09041755",
+        "datum": "2023-04-09",
+        "cas": "17:55",
+        "nazvy": {
+          "nadtitul": "",
+          "nazev": "Předpověď počasí",
+          "original": "",
+          "nazev_casti": ""
+        },
+        "dil": "",
+        "zanr": "",
+        "stopaz": "004:50",
+        "noticka": "Souhrn meteorologických informací uplynulých 24 hodin a prognóza vývoje počasí na příští dny",
+        "regionalni": "N",
+        "alternativa": "N",
+        "ikonky": {
+          "zvuk": "S",
+          "skryte_titulky": 1,
+          "neslysici": 0,
+          "ad": 1,
+          "live": 0,
+          "premiera": 1,
+          "cb": 0,
+          "hvezdicka": 0,
+          "labeling": "",
+          "puvodni_zneni": 0,
+          "pomer": "16:9",
+          "hd": 1
+        },
+        "obrazky": {
+          "tv_program": "http://img.ceskatelevize.cz/program/porady/1178166999/foto/program.jpg",
+          "nahled": "http://img.ceskatelevize.cz/program/porady/1178166999/foto/uni.jpg"
+        },
+        "dostupnost": {
+          "stav": "omezeno",
+          "od": "2023-04-09 17:55:00",
+          "do": ""
+        }
+      },
+      {
+        "linky": {
+          "program": "http://www.ceskatelevize.cz/porady/1178166846-zpravy/223411018000409/",
+          "ivysilani": "http://www.ceskatelevize.cz/ivysilani/1178166846-zpravy/223411018000409/"
+        },
+        "vps": "A09041800",
+        "datum": "2023-04-09",
+        "cas": "18:00",
+        "nazvy": {
+          "nadtitul": "",
+          "nazev": "Zprávy",
+          "original": "",
+          "nazev_casti": ""
+        },
+        "dil": "",
+        "zanr": "Zpravodajství",
+        "stopaz": "005:00",
+        "noticka": "",
+        "regionalni": "N",
+        "alternativa": "N",
+        "ikonky": {
+          "zvuk": "S",
+          "skryte_titulky": 1,
+          "neslysici": 0,
+          "ad": 1,
+          "live": 0,
+          "premiera": 1,
+          "cb": 0,
+          "hvezdicka": 0,
+          "labeling": "",
+          "puvodni_zneni": 0,
+          "pomer": "16:9",
+          "hd": 1
+        },
+        "obrazky": {
+          "tv_program": "http://img.ceskatelevize.cz/program/porady/1178166846/foto/program.jpg",
+          "nahled": "http://img.ceskatelevize.cz/program/porady/1178166846/foto/uni.jpg"
+        },
+        "dostupnost": {
+          "stav": "omezeno",
+          "od": "2023-04-09 18:00:00",
+          "do": ""
+        }
+      },
+      {
+        "linky": {
+          "program": "http://www.ceskatelevize.cz/porady/10095426857-interview-ct24/223411033200004-interview-special/",
+          "ivysilani": "http://www.ceskatelevize.cz/ivysilani/10095426857-interview-ct24/223411033200004-interview-special/"
+        },
+        "vps": "A09041828",
+        "datum": "2023-04-09",
+        "cas": "18:05",
+        "nazvy": {
+          "nadtitul": "",
+          "nazev": "Interview Speciál",
+          "original": "",
+          "nazev_casti": ""
+        },
+        "dil": "",
+        "zanr": "Zpravodajství",
+        "stopaz": "048:43",
+        "noticka": "Rozhovor Jany Peroutkové se zpěvačkou Ewou Farnou. O vztahu Čechů s Poláky a taky o nebezpečném kultu lidského těla",
+        "regionalni": "N",
+        "alternativa": "N",
+        "ikonky": {
+          "zvuk": "S",
+          "skryte_titulky": 1,
+          "neslysici": 0,
+          "ad": 0,
+          "live": 0,
+          "premiera": 0,
+          "cb": 0,
+          "hvezdicka": 0,
+          "labeling": "",
+          "puvodni_zneni": 0,
+          "pomer": "16:9",
+          "hd": 1
+        },
+        "obrazky": {
+          "tv_program": "http://img.ceskatelevize.cz/program/porady/10095426857/foto/program.jpg",
+          "nahled": "http://img.ceskatelevize.cz/program/porady/10095426857/foto/uni_223411033200004.jpg"
+        },
+        "dostupnost": {
+          "stav": "ano",
+          "od": "",
+          "do": ""
+        }
+      },
+      {
+        "linky": {
+          "program": "http://www.ceskatelevize.cz/porady/10393496397-udalosti-za-okamzik-a-pocasi/223411000440409/",
+          "ivysilani": "http://www.ceskatelevize.cz/ivysilani/10393496397-udalosti-za-okamzik-a-pocasi/223411000440409/"
+        },
+        "vps": "A09041855",
+        "datum": "2023-04-09",
+        "cas": "18:55",
+        "nazvy": {
+          "nadtitul": "",
+          "nazev": "Události za okamžik a počasí",
+          "original": "",
+          "nazev_casti": ""
+        },
+        "dil": "",
+        "zanr": "",
+        "stopaz": "005:00",
+        "noticka": "Hlavní události a předpověď počasí",
+        "regionalni": "N",
+        "alternativa": "N",
+        "ikonky": {
+          "zvuk": "S",
+          "skryte_titulky": 1,
+          "neslysici": 0,
+          "ad": 1,
+          "live": 0,
+          "premiera": 1,
+          "cb": 0,
+          "hvezdicka": 0,
+          "labeling": "",
+          "puvodni_zneni": 0,
+          "pomer": "16:9",
+          "hd": 1
+        },
+        "obrazky": {
+          "tv_program": "http://img.ceskatelevize.cz/program/porady/10393496397/foto/program.gif",
+          "nahled": "http://img.ceskatelevize.cz/program/porady/10393496397/foto/uni.jpg"
+        },
+        "dostupnost": {
+          "stav": "omezeno",
+          "od": "2023-04-09 18:55:00",
+          "do": ""
+        }
+      },
+      {
+        "linky": {
+          "program": "http://www.ceskatelevize.cz/porady/1097181328-udalosti/223411000110409/",
+          "ivysilani": "http://www.ceskatelevize.cz/ivysilani/1097181328-udalosti/223411000110409/"
+        },
+        "vps": "A09041900",
+        "datum": "2023-04-09",
+        "cas": "19:00",
+        "nazvy": {
+          "nadtitul": "",
+          "nazev": "Události",
+          "original": "",
+          "nazev_casti": ""
+        },
+        "dil": "",
+        "zanr": "Zpravodajství",
+        "stopaz": "050:00",
+        "noticka": "Hlavní zpravodajská relace České televize. Souhrn nejdůležitějších událostí dne v ČR i ve světě",
+        "regionalni": "N",
+        "alternativa": "N",
+        "ikonky": {
+          "zvuk": "S",
+          "skryte_titulky": 1,
+          "neslysici": 1,
+          "ad": 1,
+          "live": 0,
+          "premiera": 1,
+          "cb": 0,
+          "hvezdicka": 0,
+          "labeling": "",
+          "puvodni_zneni": 0,
+          "pomer": "16:9",
+          "hd": 1
+        },
+        "obrazky": {
+          "tv_program": "http://img.ceskatelevize.cz/program/porady/1097181328/foto/program.gif",
+          "nahled": "http://img.ceskatelevize.cz/program/porady/1097181328/foto/uni.jpg"
+        },
+        "dostupnost": {
+          "stav": "omezeno",
+          "od": "2023-04-09 19:00:00",
+          "do": ""
+        }
+      },
+      {
+        "linky": {
+          "program": "http://www.ceskatelevize.cz/porady/10209237801-snehove-zpravodajstvi/223411000450409-pocasi-v-evropskych-metropolich/",
+          "ivysilani": "http://www.ceskatelevize.cz/ivysilani/10209237801-snehove-zpravodajstvi/223411000450409-pocasi-v-evropskych-metropolich/"
+        },
+        "vps": "A09041950",
+        "datum": "2023-04-09",
+        "cas": "19:50",
+        "nazvy": {
+          "nadtitul": "",
+          "nazev": "Počasí v evropských metropolích",
+          "original": "",
+          "nazev_casti": ""
+        },
+        "dil": "",
+        "zanr": "",
+        "stopaz": "001:00",
+        "noticka": "",
+        "regionalni": "N",
+        "alternativa": "N",
+        "ikonky": {
+          "zvuk": "",
+          "skryte_titulky": 0,
+          "neslysici": 0,
+          "ad": 0,
+          "live": 0,
+          "premiera": 1,
+          "cb": 0,
+          "hvezdicka": 0,
+          "labeling": "",
+          "puvodni_zneni": 1,
+          "pomer": "16:9",
+          "hd": 1
+        },
+        "obrazky": {
+          "tv_program": "http://img.ceskatelevize.cz/program/porady/10209237801/foto/program.gif",
+          "nahled": "http://img.ceskatelevize.cz/program/porady/10209237801/foto/uni.jpg"
+        },
+        "dostupnost": {
+          "stav": "omezeno",
+          "od": "2023-04-09 19:50:00",
+          "do": ""
+        }
+      },
+      {
+        "linky": {
+          "program": "http://www.ceskatelevize.cz/porady/1094732002-branky-body-vteriny/223471290010409/",
+          "ivysilani": "http://www.ceskatelevize.cz/ivysilani/1094732002-branky-body-vteriny/223471290010409/"
+        },
+        "vps": "A09041952",
+        "datum": "2023-04-09",
+        "cas": "19:52",
+        "nazvy": {
+          "nadtitul": "",
+          "nazev": "Branky, body, vteřiny",
+          "original": "",
+          "nazev_casti": ""
+        },
+        "dil": "",
+        "zanr": "Sport",
+        "stopaz": "013:00",
+        "noticka": "",
+        "regionalni": "N",
+        "alternativa": "N",
+        "ikonky": {
+          "zvuk": "S",
+          "skryte_titulky": 1,
+          "neslysici": 0,
+          "ad": 1,
+          "live": 0,
+          "premiera": 1,
+          "cb": 0,
+          "hvezdicka": 0,
+          "labeling": "",
+          "puvodni_zneni": 0,
+          "pomer": "16:9",
+          "hd": 1
+        },
+        "obrazky": {
+          "tv_program": "http://img.ceskatelevize.cz/program/porady/1094732002/foto/program.gif",
+          "nahled": "http://img.ceskatelevize.cz/program/porady/1094732002/foto/uni.jpg"
+        },
+        "dostupnost": {
+          "stav": "pouze_zive",
+          "od": "2023-04-09 19:52:00",
+          "do": ""
+        }
+      },
+      {
+        "linky": {
+          "program": "http://www.ceskatelevize.cz/porady/11054978064-fokus-vaclava-moravce/223411030530002/",
+          "ivysilani": "http://www.ceskatelevize.cz/ivysilani/11054978064-fokus-vaclava-moravce/223411030530002/"
+        },
+        "vps": "A09042005",
+        "datum": "2023-04-09",
+        "cas": "20:05",
+        "nazvy": {
+          "nadtitul": "",
+          "nazev": "Fokus Václava Moravce",
+          "original": "",
+          "nazev_casti": ""
+        },
+        "dil": "",
+        "zanr": "Publicistika",
+        "stopaz": "115:17",
+        "noticka": "Jak se pozná moudrý vládce? Proč jich není mnoho? A proč k nim potřebujeme vzhlížet? Sledujte Fokus Václava Moravce, tentokrát na téma Panovník z Clam-Gallasova paláce v Praze. Pozvání přijali překladatel Martin Hilský, biolog Libor Grubhoffer, historik Martin Wihoda, spisovatelka Radka Denemarková, politoložka Adéla Gjuričová a ústavní právník Jan Kysela",
+        "regionalni": "N",
+        "alternativa": "N",
+        "ikonky": {
+          "zvuk": "S",
+          "skryte_titulky": 1,
+          "neslysici": 0,
+          "ad": 0,
+          "live": 0,
+          "premiera": 0,
+          "cb": 0,
+          "hvezdicka": 0,
+          "labeling": "",
+          "puvodni_zneni": 0,
+          "pomer": "16:9",
+          "hd": 1
+        },
+        "obrazky": {
+          "tv_program": "http://img.ceskatelevize.cz/program/porady/11054978064/foto/program.jpg",
+          "nahled": "http://img.ceskatelevize.cz/program/porady/11054978064/foto/uni.jpg"
+        },
+        "dostupnost": {
+          "stav": "ano",
+          "od": "",
+          "do": ""
+        }
+      },
+      {
+        "linky": {
+          "program": "http://www.ceskatelevize.cz/porady/1178166846-zpravy/223411022000409/",
+          "ivysilani": "http://www.ceskatelevize.cz/ivysilani/1178166846-zpravy/223411022000409/"
+        },
+        "vps": "A09042200",
+        "datum": "2023-04-09",
+        "cas": "22:00",
+        "nazvy": {
+          "nadtitul": "",
+          "nazev": "Zprávy",
+          "original": "",
+          "nazev_casti": ""
+        },
+        "dil": "",
+        "zanr": "Zpravodajství",
+        "stopaz": "005:00",
+        "noticka": "",
+        "regionalni": "N",
+        "alternativa": "N",
+        "ikonky": {
+          "zvuk": "S",
+          "skryte_titulky": 1,
+          "neslysici": 0,
+          "ad": 0,
+          "live": 0,
+          "premiera": 1,
+          "cb": 0,
+          "hvezdicka": 0,
+          "labeling": "",
+          "puvodni_zneni": 0,
+          "pomer": "16:9",
+          "hd": 1
+        },
+        "obrazky": {
+          "tv_program": "http://img.ceskatelevize.cz/program/porady/1178166846/foto/program.jpg",
+          "nahled": "http://img.ceskatelevize.cz/program/porady/1178166846/foto/uni.jpg"
+        },
+        "dostupnost": {
+          "stav": "omezeno",
+          "od": "2023-04-09 22:00:00",
+          "do": ""
+        }
+      },
+      {
+        "linky": {
+          "program": "http://www.ceskatelevize.cz/porady/10150778447-historie-cs/219411058220015/",
+          "ivysilani": "http://www.ceskatelevize.cz/ivysilani/10150778447-historie-cs/219411058220015/"
+        },
+        "vps": "A09042205",
+        "datum": "2023-04-09",
+        "cas": "22:05",
+        "nazvy": {
+          "nadtitul": "",
+          "nazev": "Historie.cs",
+          "original": "",
+          "nazev_casti": ""
+        },
+        "dil": "",
+        "zanr": "Publicistika",
+        "stopaz": "052:07",
+        "noticka": "Hašek, Gašek. Jak vypadal fantom české literatury a jaká byla jeho duše? Proč odešel z legií a proč se přidal k bolševikům? A proč není Švejk prototypem národní povahy?",
+        "regionalni": "N",
+        "alternativa": "N",
+        "ikonky": {
+          "zvuk": "S",
+          "skryte_titulky": 1,
+          "neslysici": 0,
+          "ad": 0,
+          "live": 0,
+          "premiera": 0,
+          "cb": 0,
+          "hvezdicka": 0,
+          "labeling": "",
+          "puvodni_zneni": 0,
+          "pomer": "16:9",
+          "hd": 1
+        },
+        "obrazky": {
+          "tv_program": "http://img.ceskatelevize.cz/program/porady/10150778447/foto/program.gif",
+          "nahled": "http://img.ceskatelevize.cz/program/porady/10150778447/foto/uni_219411058220015.jpg"
+        },
+        "dostupnost": {
+          "stav": "ano",
+          "od": "",
+          "do": ""
+        }
+      },
+      {
+        "linky": {
+          "program": "http://www.ceskatelevize.cz/porady/10253218159-zpravy-ve-23/223411023000409/",
+          "ivysilani": "http://www.ceskatelevize.cz/ivysilani/10253218159-zpravy-ve-23/223411023000409/"
+        },
+        "vps": "A09042300",
+        "datum": "2023-04-09",
+        "cas": "23:00",
+        "nazvy": {
+          "nadtitul": "",
+          "nazev": "Zprávy ve 23",
+          "original": "",
+          "nazev_casti": ""
+        },
+        "dil": "",
+        "zanr": "Zpravodajství",
+        "stopaz": "010:00",
+        "noticka": "Nejdůležitější události dne v ČR i ve světě",
+        "regionalni": "N",
+        "alternativa": "N",
+        "ikonky": {
+          "zvuk": "S",
+          "skryte_titulky": 0,
+          "neslysici": 0,
+          "ad": 0,
+          "live": 0,
+          "premiera": 1,
+          "cb": 0,
+          "hvezdicka": 0,
+          "labeling": "",
+          "puvodni_zneni": 0,
+          "pomer": "16:9",
+          "hd": 1
+        },
+        "obrazky": {
+          "tv_program": "http://img.ceskatelevize.cz/program/porady/10253218159/foto/program.jpg",
+          "nahled": "http://img.ceskatelevize.cz/program/porady/10253218159/foto/uni.jpg"
+        },
+        "dostupnost": {
+          "stav": "omezeno",
+          "od": "2023-04-09 23:00:00",
+          "do": ""
+        }
+      },
+      {
+        "linky": {
+          "program": "http://www.ceskatelevize.cz/porady/10095426857-interview-ct24/223411033200004-interview-special/",
+          "ivysilani": "http://www.ceskatelevize.cz/ivysilani/10095426857-interview-ct24/223411033200004-interview-special/"
+        },
+        "vps": "A09042332",
+        "datum": "2023-04-09",
+        "cas": "23:10",
+        "nazvy": {
+          "nadtitul": "",
+          "nazev": "Interview Speciál",
+          "original": "",
+          "nazev_casti": ""
+        },
+        "dil": "",
+        "zanr": "Zpravodajství",
+        "stopaz": "048:43",
+        "noticka": "Rozhovor Jany Peroutkové se zpěvačkou Ewou Farnou. O vztahu Čechů s Poláky a taky o nebezpečném kultu lidského těla",
+        "regionalni": "N",
+        "alternativa": "N",
+        "ikonky": {
+          "zvuk": "S",
+          "skryte_titulky": 1,
+          "neslysici": 0,
+          "ad": 0,
+          "live": 0,
+          "premiera": 0,
+          "cb": 0,
+          "hvezdicka": 0,
+          "labeling": "",
+          "puvodni_zneni": 0,
+          "pomer": "16:9",
+          "hd": 1
+        },
+        "obrazky": {
+          "tv_program": "http://img.ceskatelevize.cz/program/porady/10095426857/foto/program.jpg",
+          "nahled": "http://img.ceskatelevize.cz/program/porady/10095426857/foto/uni_223411033200004.jpg"
+        },
+        "dostupnost": {
+          "stav": "ano",
+          "od": "",
+          "do": ""
+        }
+      },
+      {
+        "linky": {
+          "program": "http://www.ceskatelevize.cz/porady/1178166846-zpravy/223411024000409/",
+          "ivysilani": "http://www.ceskatelevize.cz/ivysilani/1178166846-zpravy/223411024000409/"
+        },
+        "vps": "A10040000",
+        "datum": "2023-04-10",
+        "cas": "00:00",
+        "nazvy": {
+          "nadtitul": "",
+          "nazev": "Zprávy",
+          "original": "",
+          "nazev_casti": ""
+        },
+        "dil": "",
+        "zanr": "Zpravodajství",
+        "stopaz": "010:00",
+        "noticka": "",
+        "regionalni": "N",
+        "alternativa": "N",
+        "ikonky": {
+          "zvuk": "S",
+          "skryte_titulky": 0,
+          "neslysici": 0,
+          "ad": 0,
+          "live": 0,
+          "premiera": 1,
+          "cb": 0,
+          "hvezdicka": 0,
+          "labeling": "",
+          "puvodni_zneni": 0,
+          "pomer": "16:9",
+          "hd": 1
+        },
+        "obrazky": {
+          "tv_program": "http://img.ceskatelevize.cz/program/porady/1178166846/foto/program.jpg",
+          "nahled": "http://img.ceskatelevize.cz/program/porady/1178166846/foto/uni.jpg"
+        },
+        "dostupnost": {
+          "stav": "omezeno",
+          "od": "2023-04-10 00:00:00",
+          "do": ""
+        }
+      },
+      {
+        "linky": {
+          "program": "http://www.ceskatelevize.cz/porady/10091245326-zajimavosti-z-regionu-brno/323281381910409-zajimavosti-z-regionu/",
+          "ivysilani": "http://www.ceskatelevize.cz/ivysilani/10091245326-zajimavosti-z-regionu-brno/323281381910409-zajimavosti-z-regionu/"
+        },
+        "vps": "A10040010",
+        "datum": "2023-04-10",
+        "cas": "00:10",
+        "nazvy": {
+          "nadtitul": "",
+          "nazev": "Zajímavosti z regionů",
+          "original": "",
+          "nazev_casti": ""
+        },
+        "dil": "",
+        "zanr": "Zpravodajství",
+        "stopaz": "024:58",
+        "noticka": "Události a informace z kraje, v němž žijete",
+        "regionalni": "N",
+        "alternativa": "N",
+        "ikonky": {
+          "zvuk": "S",
+          "skryte_titulky": 1,
+          "neslysici": 0,
+          "ad": 0,
+          "live": 0,
+          "premiera": 0,
+          "cb": 0,
+          "hvezdicka": 0,
+          "labeling": "",
+          "puvodni_zneni": 0,
+          "pomer": "16:9",
+          "hd": 1
+        },
+        "obrazky": {
+          "tv_program": "",
+          "nahled": "http://img.ceskatelevize.cz/program/porady/10091245326/foto/uni.jpg"
+        },
+        "dostupnost": {
+          "stav": "ano",
+          "od": "",
+          "do": ""
+        }
+      },
+      {
+        "linky": {
+          "program": "http://www.ceskatelevize.cz/porady/1187758204-zajimavosti-z-regionu-ostrava/423231100232014-zajimavosti-z-regionu/",
+          "ivysilani": "http://www.ceskatelevize.cz/ivysilani/1187758204-zajimavosti-z-regionu-ostrava/423231100232014-zajimavosti-z-regionu/"
+        },
+        "vps": "A10040035",
+        "datum": "2023-04-10",
+        "cas": "00:35",
+        "nazvy": {
+          "nadtitul": "",
+          "nazev": "Zajímavosti z regionů",
+          "original": "",
+          "nazev_casti": ""
+        },
+        "dil": "",
+        "zanr": "Zpravodajství",
+        "stopaz": "025:01",
+        "noticka": "Události a informace z kraje, v němž žijete",
+        "regionalni": "N",
+        "alternativa": "N",
+        "ikonky": {
+          "zvuk": "S",
+          "skryte_titulky": 1,
+          "neslysici": 0,
+          "ad": 0,
+          "live": 0,
+          "premiera": 0,
+          "cb": 0,
+          "hvezdicka": 0,
+          "labeling": "",
+          "puvodni_zneni": 0,
+          "pomer": "16:9",
+          "hd": 1
+        },
+        "obrazky": {
+          "tv_program": "",
+          "nahled": "http://img.ceskatelevize.cz/program/porady/1187758204/foto/uni.jpg"
+        },
+        "dostupnost": {
+          "stav": "ano",
+          "od": "",
+          "do": ""
+        }
+      },
+      {
+        "linky": {
+          "program": "http://www.ceskatelevize.cz/porady/1178166846-zpravy/223411001000409/",
+          "ivysilani": "http://www.ceskatelevize.cz/ivysilani/1178166846-zpravy/223411001000409/"
+        },
+        "vps": "A10040100",
+        "datum": "2023-04-10",
+        "cas": "01:00",
+        "nazvy": {
+          "nadtitul": "",
+          "nazev": "Zprávy",
+          "original": "",
+          "nazev_casti": ""
+        },
+        "dil": "",
+        "zanr": "Zpravodajství",
+        "stopaz": "010:00",
+        "noticka": "",
+        "regionalni": "N",
+        "alternativa": "N",
+        "ikonky": {
+          "zvuk": "S",
+          "skryte_titulky": 0,
+          "neslysici": 0,
+          "ad": 0,
+          "live": 0,
+          "premiera": 1,
+          "cb": 0,
+          "hvezdicka": 0,
+          "labeling": "",
+          "puvodni_zneni": 0,
+          "pomer": "16:9",
+          "hd": 1
+        },
+        "obrazky": {
+          "tv_program": "http://img.ceskatelevize.cz/program/porady/1178166846/foto/program.jpg",
+          "nahled": "http://img.ceskatelevize.cz/program/porady/1178166846/foto/uni.jpg"
+        },
+        "dostupnost": {
+          "stav": "omezeno",
+          "od": "2023-04-10 01:00:00",
+          "do": ""
+        }
+      },
+      {
+        "linky": {
+          "program": "http://www.ceskatelevize.cz/porady/1181680258-tyden-v-regionech-brno/323281381890408-tyden-v-regionech/",
+          "ivysilani": "http://www.ceskatelevize.cz/ivysilani/1181680258-tyden-v-regionech-brno/323281381890408-tyden-v-regionech/"
+        },
+        "vps": "A10040110",
+        "datum": "2023-04-10",
+        "cas": "01:10",
+        "nazvy": {
+          "nadtitul": "",
+          "nazev": "Týden v regionech",
+          "original": "",
+          "nazev_casti": ""
+        },
+        "dil": "",
+        "zanr": "Zpravodajství",
+        "stopaz": "026:00",
+        "noticka": "Dnešním dílem seriálu Paměťová stopa nás provede Josef Skalský – mistr houslař. Řemeslu se vyučil u svého otce, když kvůli zdraví nemohl dokončit studium na brněnské konzervatoři",
+        "regionalni": "N",
+        "alternativa": "N",
+        "ikonky": {
+          "zvuk": "S",
+          "skryte_titulky": 1,
+          "neslysici": 0,
+          "ad": 0,
+          "live": 0,
+          "premiera": 0,
+          "cb": 0,
+          "hvezdicka": 0,
+          "labeling": "",
+          "puvodni_zneni": 0,
+          "pomer": "16:9",
+          "hd": 1
+        },
+        "obrazky": {
+          "tv_program": "http://img.ceskatelevize.cz/program/porady/1181680258/foto/program.jpg",
+          "nahled": "http://img.ceskatelevize.cz/program/porady/1181680258/foto/uni.jpg"
+        },
+        "dostupnost": {
+          "stav": "ano",
+          "od": "",
+          "do": ""
+        }
+      },
+      {
+        "linky": {
+          "program": "http://www.ceskatelevize.cz/porady/1183909575-tyden-v-regionech-ostrava/423231100212014-tyden-v-regionech/",
+          "ivysilani": "http://www.ceskatelevize.cz/ivysilani/1183909575-tyden-v-regionech-ostrava/423231100212014-tyden-v-regionech/"
+        },
+        "vps": "A10040136",
+        "datum": "2023-04-10",
+        "cas": "01:36",
+        "nazvy": {
+          "nadtitul": "",
+          "nazev": "Týden v regionech",
+          "original": "",
+          "nazev_casti": ""
+        },
+        "dil": "",
+        "zanr": "Zpravodajství",
+        "stopaz": "026:01",
+        "noticka": "Nejdůležitější události týdne v Moravskoslezském a Olomouckém kraji",
+        "regionalni": "N",
+        "alternativa": "N",
+        "ikonky": {
+          "zvuk": "S",
+          "skryte_titulky": 1,
+          "neslysici": 0,
+          "ad": 0,
+          "live": 0,
+          "premiera": 0,
+          "cb": 0,
+          "hvezdicka": 0,
+          "labeling": "",
+          "puvodni_zneni": 0,
+          "pomer": "16:9",
+          "hd": 1
+        },
+        "obrazky": {
+          "tv_program": "http://img.ceskatelevize.cz/program/porady/1183909575/foto/program.jpg",
+          "nahled": "http://img.ceskatelevize.cz/program/porady/1183909575/foto/uni.jpg"
+        },
+        "dostupnost": {
+          "stav": "ano",
+          "od": "",
+          "do": ""
+        }
+      },
+      {
+        "linky": {
+          "program": "http://www.ceskatelevize.cz/porady/1178166846-zpravy/223411002000409/",
+          "ivysilani": "http://www.ceskatelevize.cz/ivysilani/1178166846-zpravy/223411002000409/"
+        },
+        "vps": "A10040200",
+        "datum": "2023-04-10",
+        "cas": "02:00",
+        "nazvy": {
+          "nadtitul": "",
+          "nazev": "Zprávy",
+          "original": "",
+          "nazev_casti": ""
+        },
+        "dil": "",
+        "zanr": "Zpravodajství",
+        "stopaz": "010:00",
+        "noticka": "",
+        "regionalni": "N",
+        "alternativa": "N",
+        "ikonky": {
+          "zvuk": "S",
+          "skryte_titulky": 0,
+          "neslysici": 0,
+          "ad": 0,
+          "live": 0,
+          "premiera": 1,
+          "cb": 0,
+          "hvezdicka": 0,
+          "labeling": "",
+          "puvodni_zneni": 0,
+          "pomer": "16:9",
+          "hd": 1
+        },
+        "obrazky": {
+          "tv_program": "http://img.ceskatelevize.cz/program/porady/1178166846/foto/program.jpg",
+          "nahled": "http://img.ceskatelevize.cz/program/porady/1178166846/foto/uni.jpg"
+        },
+        "dostupnost": {
+          "stav": "omezeno",
+          "od": "2023-04-10 02:00:00",
+          "do": ""
+        }
+      },
+      {
+        "linky": {
+          "program": "http://www.ceskatelevize.cz/porady/10091245326-zajimavosti-z-regionu-brno/323281381910409-zajimavosti-z-regionu/",
+          "ivysilani": "http://www.ceskatelevize.cz/ivysilani/10091245326-zajimavosti-z-regionu-brno/323281381910409-zajimavosti-z-regionu/"
+        },
+        "vps": "A10040210",
+        "datum": "2023-04-10",
+        "cas": "02:10",
+        "nazvy": {
+          "nadtitul": "",
+          "nazev": "Zajímavosti z regionů",
+          "original": "",
+          "nazev_casti": ""
+        },
+        "dil": "",
+        "zanr": "Zpravodajství",
+        "stopaz": "024:58",
+        "noticka": "Události a informace z kraje, v němž žijete",
+        "regionalni": "N",
+        "alternativa": "N",
+        "ikonky": {
+          "zvuk": "S",
+          "skryte_titulky": 1,
+          "neslysici": 0,
+          "ad": 0,
+          "live": 0,
+          "premiera": 0,
+          "cb": 0,
+          "hvezdicka": 0,
+          "labeling": "",
+          "puvodni_zneni": 0,
+          "pomer": "16:9",
+          "hd": 1
+        },
+        "obrazky": {
+          "tv_program": "",
+          "nahled": "http://img.ceskatelevize.cz/program/porady/10091245326/foto/uni.jpg"
+        },
+        "dostupnost": {
+          "stav": "ano",
+          "od": "",
+          "do": ""
+        }
+      },
+      {
+        "linky": {
+          "program": "http://www.ceskatelevize.cz/porady/1187758204-zajimavosti-z-regionu-ostrava/423231100232014-zajimavosti-z-regionu/",
+          "ivysilani": "http://www.ceskatelevize.cz/ivysilani/1187758204-zajimavosti-z-regionu-ostrava/423231100232014-zajimavosti-z-regionu/"
+        },
+        "vps": "A10040235",
+        "datum": "2023-04-10",
+        "cas": "02:35",
+        "nazvy": {
+          "nadtitul": "",
+          "nazev": "Zajímavosti z regionů",
+          "original": "",
+          "nazev_casti": ""
+        },
+        "dil": "",
+        "zanr": "Zpravodajství",
+        "stopaz": "025:01",
+        "noticka": "Události a informace z kraje, v němž žijete",
+        "regionalni": "N",
+        "alternativa": "N",
+        "ikonky": {
+          "zvuk": "S",
+          "skryte_titulky": 1,
+          "neslysici": 0,
+          "ad": 0,
+          "live": 0,
+          "premiera": 0,
+          "cb": 0,
+          "hvezdicka": 0,
+          "labeling": "",
+          "puvodni_zneni": 0,
+          "pomer": "16:9",
+          "hd": 1
+        },
+        "obrazky": {
+          "tv_program": "",
+          "nahled": "http://img.ceskatelevize.cz/program/porady/1187758204/foto/uni.jpg"
+        },
+        "dostupnost": {
+          "stav": "ano",
+          "od": "",
+          "do": ""
+        }
+      },
+      {
+        "linky": {
+          "program": "http://www.ceskatelevize.cz/porady/1178166846-zpravy/223411003000409/",
+          "ivysilani": "http://www.ceskatelevize.cz/ivysilani/1178166846-zpravy/223411003000409/"
+        },
+        "vps": "A10040300",
+        "datum": "2023-04-10",
+        "cas": "03:00",
+        "nazvy": {
+          "nadtitul": "",
+          "nazev": "Zprávy",
+          "original": "",
+          "nazev_casti": ""
+        },
+        "dil": "",
+        "zanr": "Zpravodajství",
+        "stopaz": "010:00",
+        "noticka": "",
+        "regionalni": "N",
+        "alternativa": "N",
+        "ikonky": {
+          "zvuk": "S",
+          "skryte_titulky": 0,
+          "neslysici": 0,
+          "ad": 0,
+          "live": 0,
+          "premiera": 1,
+          "cb": 0,
+          "hvezdicka": 0,
+          "labeling": "",
+          "puvodni_zneni": 0,
+          "pomer": "16:9",
+          "hd": 1
+        },
+        "obrazky": {
+          "tv_program": "http://img.ceskatelevize.cz/program/porady/1178166846/foto/program.jpg",
+          "nahled": "http://img.ceskatelevize.cz/program/porady/1178166846/foto/uni.jpg"
+        },
+        "dostupnost": {
+          "stav": "omezeno",
+          "od": "2023-04-10 03:00:00",
+          "do": ""
+        }
+      },
+      {
+        "linky": {
+          "program": "http://www.ceskatelevize.cz/porady/12094108610-regiony-ct24/323281381960408/",
+          "ivysilani": "http://www.ceskatelevize.cz/ivysilani/12094108610-regiony-ct24/323281381960408/"
+        },
+        "vps": "A10040310",
+        "datum": "2023-04-10",
+        "cas": "03:10",
+        "nazvy": {
+          "nadtitul": "",
+          "nazev": "Regiony ČT24",
+          "original": "",
+          "nazev_casti": ""
+        },
+        "dil": "",
+        "zanr": "Zpravodajství",
+        "stopaz": "053:07",
+        "noticka": "Pořad, zaměřený na důležité a zajímavé dění ve všech regionech ČR. Pořad se věnuje tématům společným pro více regionů, kde existují různé způsoby řešení určitého problému, více názorů a úhlů pohledu na dané téma. Chybět nebudou vstupy, stejně tak práce iReportérů a regionální dění na sociálních sítích",
+        "regionalni": "N",
+        "alternativa": "N",
+        "ikonky": {
+          "zvuk": "S",
+          "skryte_titulky": 1,
+          "neslysici": 0,
+          "ad": 0,
+          "live": 0,
+          "premiera": 0,
+          "cb": 0,
+          "hvezdicka": 0,
+          "labeling": "",
+          "puvodni_zneni": 0,
+          "pomer": "16:9",
+          "hd": 1
+        },
+        "obrazky": {
+          "tv_program": "http://img.ceskatelevize.cz/program/porady/12094108610/foto/program.jpg",
+          "nahled": "http://img.ceskatelevize.cz/program/porady/12094108610/foto/uni.jpg"
+        },
+        "dostupnost": {
+          "stav": "ano",
+          "od": "",
+          "do": ""
+        }
+      },
+      {
+        "linky": {
+          "program": "http://www.ceskatelevize.cz/porady/1178166846-zpravy/223411004000409/",
+          "ivysilani": "http://www.ceskatelevize.cz/ivysilani/1178166846-zpravy/223411004000409/"
+        },
+        "vps": "A10040400",
+        "datum": "2023-04-10",
+        "cas": "04:00",
+        "nazvy": {
+          "nadtitul": "",
+          "nazev": "Zprávy",
+          "original": "",
+          "nazev_casti": ""
+        },
+        "dil": "",
+        "zanr": "Zpravodajství",
+        "stopaz": "010:00",
+        "noticka": "",
+        "regionalni": "N",
+        "alternativa": "N",
+        "ikonky": {
+          "zvuk": "S",
+          "skryte_titulky": 0,
+          "neslysici": 0,
+          "ad": 0,
+          "live": 0,
+          "premiera": 1,
+          "cb": 0,
+          "hvezdicka": 0,
+          "labeling": "",
+          "puvodni_zneni": 0,
+          "pomer": "16:9",
+          "hd": 1
+        },
+        "obrazky": {
+          "tv_program": "http://img.ceskatelevize.cz/program/porady/1178166846/foto/program.jpg",
+          "nahled": "http://img.ceskatelevize.cz/program/porady/1178166846/foto/uni.jpg"
+        },
+        "dostupnost": {
+          "stav": "omezeno",
+          "od": "2023-04-10 04:00:00",
+          "do": ""
+        }
+      },
+      {
+        "linky": {
+          "program": "http://www.ceskatelevize.cz/porady/1094732002-branky-body-vteriny/223471290010409/",
+          "ivysilani": "http://www.ceskatelevize.cz/ivysilani/1094732002-branky-body-vteriny/223471290010409/"
+        },
+        "vps": "A10040410",
+        "datum": "2023-04-10",
+        "cas": "04:10",
+        "nazvy": {
+          "nadtitul": "",
+          "nazev": "Branky, body, vteřiny",
+          "original": "",
+          "nazev_casti": ""
+        },
+        "dil": "",
+        "zanr": "Sport",
+        "stopaz": "013:00",
+        "noticka": "",
+        "regionalni": "N",
+        "alternativa": "N",
+        "ikonky": {
+          "zvuk": "",
+          "skryte_titulky": 1,
+          "neslysici": 0,
+          "ad": 1,
+          "live": 0,
+          "premiera": 0,
+          "cb": 0,
+          "hvezdicka": 0,
+          "labeling": "",
+          "puvodni_zneni": 0,
+          "pomer": "16:9",
+          "hd": 1
+        },
+        "obrazky": {
+          "tv_program": "http://img.ceskatelevize.cz/program/porady/1094732002/foto/program.gif",
+          "nahled": "http://img.ceskatelevize.cz/program/porady/1094732002/foto/uni.jpg"
+        },
+        "dostupnost": {
+          "stav": "pouze_zive",
+          "od": "2023-04-09 19:52:00",
+          "do": ""
+        }
+      },
+      {
+        "linky": {
+          "program": "http://www.ceskatelevize.cz/porady/10095426857-interview-ct24/223411033200003-interview-special/",
+          "ivysilani": "http://www.ceskatelevize.cz/ivysilani/10095426857-interview-ct24/223411033200003-interview-special/"
+        },
+        "vps": "A10040423",
+        "datum": "2023-04-10",
+        "cas": "04:23",
+        "nazvy": {
+          "nadtitul": "",
+          "nazev": "Interview Speciál",
+          "original": "",
+          "nazev_casti": ""
+        },
+        "dil": "",
+        "zanr": "Zpravodajství",
+        "stopaz": "034:38",
+        "noticka": "Rozhovor Michala Kubala s první dámou Ukrajiny Olenou Zelenskou",
+        "regionalni": "N",
+        "alternativa": "N",
+        "ikonky": {
+          "zvuk": "S",
+          "skryte_titulky": 1,
+          "neslysici": 0,
+          "ad": 0,
+          "live": 0,
+          "premiera": 0,
+          "cb": 0,
+          "hvezdicka": 0,
+          "labeling": "",
+          "puvodni_zneni": 0,
+          "pomer": "16:9",
+          "hd": 1
+        },
+        "obrazky": {
+          "tv_program": "http://img.ceskatelevize.cz/program/porady/10095426857/foto/program.jpg",
+          "nahled": "http://img.ceskatelevize.cz/program/porady/10095426857/foto/uni_223411033200003.jpg"
+        },
+        "dostupnost": {
+          "stav": "ano",
+          "od": "",
+          "do": ""
+        }
+      },
+      {
+        "linky": {
+          "program": "http://www.ceskatelevize.cz/porady/1178166846-zpravy/223411005000409/",
+          "ivysilani": "http://www.ceskatelevize.cz/ivysilani/1178166846-zpravy/223411005000409/"
+        },
+        "vps": "A10040500",
+        "datum": "2023-04-10",
+        "cas": "05:00",
+        "nazvy": {
+          "nadtitul": "",
+          "nazev": "Zprávy",
+          "original": "",
+          "nazev_casti": ""
+        },
+        "dil": "",
+        "zanr": "Zpravodajství",
+        "stopaz": "010:00",
+        "noticka": "",
+        "regionalni": "N",
+        "alternativa": "N",
+        "ikonky": {
+          "zvuk": "S",
+          "skryte_titulky": 0,
+          "neslysici": 0,
+          "ad": 0,
+          "live": 0,
+          "premiera": 1,
+          "cb": 0,
+          "hvezdicka": 0,
+          "labeling": "",
+          "puvodni_zneni": 0,
+          "pomer": "16:9",
+          "hd": 1
+        },
+        "obrazky": {
+          "tv_program": "http://img.ceskatelevize.cz/program/porady/1178166846/foto/program.jpg",
+          "nahled": "http://img.ceskatelevize.cz/program/porady/1178166846/foto/uni.jpg"
+        },
+        "dostupnost": {
+          "stav": "omezeno",
+          "od": "2023-04-10 05:00:00",
+          "do": ""
+        }
+      },
+      {
+        "linky": {
+          "program": "http://www.ceskatelevize.cz/porady/1181680258-tyden-v-regionech-brno/323281381890408-tyden-v-regionech/",
+          "ivysilani": "http://www.ceskatelevize.cz/ivysilani/1181680258-tyden-v-regionech-brno/323281381890408-tyden-v-regionech/"
+        },
+        "vps": "A10040510",
+        "datum": "2023-04-10",
+        "cas": "05:10",
+        "nazvy": {
+          "nadtitul": "",
+          "nazev": "Týden v regionech",
+          "original": "",
+          "nazev_casti": ""
+        },
+        "dil": "",
+        "zanr": "Zpravodajství",
+        "stopaz": "026:00",
+        "noticka": "Dnešním dílem seriálu Paměťová stopa nás provede Josef Skalský – mistr houslař. Řemeslu se vyučil u svého otce, když kvůli zdraví nemohl dokončit studium na brněnské konzervatoři",
+        "regionalni": "N",
+        "alternativa": "N",
+        "ikonky": {
+          "zvuk": "S",
+          "skryte_titulky": 1,
+          "neslysici": 0,
+          "ad": 0,
+          "live": 0,
+          "premiera": 0,
+          "cb": 0,
+          "hvezdicka": 0,
+          "labeling": "",
+          "puvodni_zneni": 0,
+          "pomer": "16:9",
+          "hd": 1
+        },
+        "obrazky": {
+          "tv_program": "http://img.ceskatelevize.cz/program/porady/1181680258/foto/program.jpg",
+          "nahled": "http://img.ceskatelevize.cz/program/porady/1181680258/foto/uni.jpg"
+        },
+        "dostupnost": {
+          "stav": "ano",
+          "od": "",
+          "do": ""
+        }
+      },
+      {
+        "linky": {
+          "program": "http://www.ceskatelevize.cz/porady/1183909575-tyden-v-regionech-ostrava/423231100212014-tyden-v-regionech/",
+          "ivysilani": "http://www.ceskatelevize.cz/ivysilani/1183909575-tyden-v-regionech-ostrava/423231100212014-tyden-v-regionech/"
+        },
+        "vps": "A10040536",
+        "datum": "2023-04-10",
+        "cas": "05:36",
+        "nazvy": {
+          "nadtitul": "",
+          "nazev": "Týden v regionech",
+          "original": "",
+          "nazev_casti": ""
+        },
+        "dil": "",
+        "zanr": "Zpravodajství",
+        "stopaz": "026:01",
+        "noticka": "Nejdůležitější události týdne v Moravskoslezském a Olomouckém kraji",
+        "regionalni": "N",
+        "alternativa": "N",
+        "ikonky": {
+          "zvuk": "S",
+          "skryte_titulky": 1,
+          "neslysici": 0,
+          "ad": 0,
+          "live": 0,
+          "premiera": 0,
+          "cb": 0,
+          "hvezdicka": 0,
+          "labeling": "",
+          "puvodni_zneni": 0,
+          "pomer": "16:9",
+          "hd": 1
+        },
+        "obrazky": {
+          "tv_program": "http://img.ceskatelevize.cz/program/porady/1183909575/foto/program.jpg",
+          "nahled": "http://img.ceskatelevize.cz/program/porady/1183909575/foto/uni.jpg"
+        },
+        "dostupnost": {
+          "stav": "ano",
+          "od": "",
+          "do": ""
+        }
+      },
+      {
+        "linky": {
+          "program": "http://www.ceskatelevize.cz/porady/1178166846-zpravy/223411006000409/",
+          "ivysilani": "http://www.ceskatelevize.cz/ivysilani/1178166846-zpravy/223411006000409/"
+        },
+        "vps": "A10040600",
+        "datum": "2023-04-10",
+        "cas": "06:00",
+        "nazvy": {
+          "nadtitul": "",
+          "nazev": "Zprávy",
+          "original": "",
+          "nazev_casti": ""
+        },
+        "dil": "",
+        "zanr": "Zpravodajství",
+        "stopaz": "010:00",
+        "noticka": "",
+        "regionalni": "N",
+        "alternativa": "N",
+        "ikonky": {
+          "zvuk": "S",
+          "skryte_titulky": 0,
+          "neslysici": 0,
+          "ad": 0,
+          "live": 0,
+          "premiera": 1,
+          "cb": 0,
+          "hvezdicka": 0,
+          "labeling": "",
+          "puvodni_zneni": 0,
+          "pomer": "16:9",
+          "hd": 1
+        },
+        "obrazky": {
+          "tv_program": "http://img.ceskatelevize.cz/program/porady/1178166846/foto/program.jpg",
+          "nahled": "http://img.ceskatelevize.cz/program/porady/1178166846/foto/uni.jpg"
+        },
+        "dostupnost": {
+          "stav": "omezeno",
+          "od": "2023-04-10 06:00:00",
+          "do": ""
+        }
+      },
+      {
+        "linky": {
+          "program": "http://www.ceskatelevize.cz/porady/10091005596-zajimavosti-z-regionu-praha/223411030920409-zajimavosti-z-regionu/",
+          "ivysilani": "http://www.ceskatelevize.cz/ivysilani/10091005596-zajimavosti-z-regionu-praha/223411030920409-zajimavosti-z-regionu/"
+        },
+        "vps": "A10040610",
+        "datum": "2023-04-10",
+        "cas": "06:10",
+        "nazvy": {
+          "nadtitul": "",
+          "nazev": "Zajímavosti z regionů",
+          "original": "",
+          "nazev_casti": ""
+        },
+        "dil": "",
+        "zanr": "Zpravodajství",
+        "stopaz": "025:02",
+        "noticka": "Události a informace z kraje, v němž žijete",
+        "regionalni": "N",
+        "alternativa": "N",
+        "ikonky": {
+          "zvuk": "S",
+          "skryte_titulky": 1,
+          "neslysici": 0,
+          "ad": 1,
+          "live": 0,
+          "premiera": 0,
+          "cb": 0,
+          "hvezdicka": 0,
+          "labeling": "",
+          "puvodni_zneni": 0,
+          "pomer": "16:9",
+          "hd": 1
+        },
+        "obrazky": {
+          "tv_program": "",
+          "nahled": "http://img.ceskatelevize.cz/program/porady/10091005596/foto/uni.jpg"
+        },
+        "dostupnost": {
+          "stav": "ano",
+          "od": "",
+          "do": ""
+        }
+      },
+      {
+        "linky": {
+          "program": "http://www.ceskatelevize.cz/porady/1097206490-udalosti-v-kulture/223411000120409/",
+          "ivysilani": "http://www.ceskatelevize.cz/ivysilani/1097206490-udalosti-v-kulture/223411000120409/"
+        },
+        "vps": "A10040635",
+        "datum": "2023-04-10",
+        "cas": "06:35",
+        "nazvy": {
+          "nadtitul": "",
+          "nazev": "Události v kultuře",
+          "original": "",
+          "nazev_casti": ""
+        },
+        "dil": "",
+        "zanr": "Zpravodajství",
+        "stopaz": "015:00",
+        "noticka": "Každodenní souhrn nejdůležitějšího a nejzajímavějšího dění v naší i světové kultuře",
+        "regionalni": "N",
+        "alternativa": "N",
+        "ikonky": {
+          "zvuk": "",
+          "skryte_titulky": 1,
+          "neslysici": 0,
+          "ad": 1,
+          "live": 0,
+          "premiera": 0,
+          "cb": 0,
+          "hvezdicka": 0,
+          "labeling": "",
+          "puvodni_zneni": 0,
+          "pomer": "16:9",
+          "hd": 1
+        },
+        "obrazky": {
+          "tv_program": "http://img.ceskatelevize.cz/program/porady/1097206490/foto/program.gif",
+          "nahled": "http://img.ceskatelevize.cz/program/porady/1097206490/foto/uni.jpg"
+        },
+        "dostupnost": {
+          "stav": "omezeno",
+          "od": "2023-04-09 20:00:00",
+          "do": ""
+        }
+      },
+      {
+        "linky": {
+          "program": "http://www.ceskatelevize.cz/porady/10886931259-tajemstvi-prazskych-dvorku/214411033230016/",
+          "ivysilani": "http://www.ceskatelevize.cz/ivysilani/10886931259-tajemstvi-prazskych-dvorku/214411033230016/"
+        },
+        "vps": "A10040650",
+        "datum": "2023-04-10",
+        "cas": "06:50",
+        "nazvy": {
+          "nadtitul": "",
+          "nazev": "Tajemství pražských dvorků",
+          "original": "",
+          "nazev_casti": ""
+        },
+        "dil": "",
+        "zanr": "Magazíny",
+        "stopaz": "007:24",
+        "noticka": "Unikátní skála místem inspirace Sňatků z rozumu",
+        "regionalni": "N",
+        "alternativa": "N",
+        "ikonky": {
+          "zvuk": "S",
+          "skryte_titulky": 1,
+          "neslysici": 0,
+          "ad": 0,
+          "live": 0,
+          "premiera": 0,
+          "cb": 0,
+          "hvezdicka": 0,
+          "labeling": "",
+          "puvodni_zneni": 0,
+          "pomer": "16:9",
+          "hd": 0
+        },
+        "obrazky": {
+          "tv_program": "http://img.ceskatelevize.cz/program/porady/10886931259/foto/program.jpg",
+          "nahled": "http://img.ceskatelevize.cz/program/porady/10886931259/foto/uni_214411033230016.jpg"
+        },
+        "dostupnost": {
+          "stav": "ano",
+          "od": "",
+          "do": ""
+        }
+      }
+    ]
+  }
+}

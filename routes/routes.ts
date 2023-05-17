@@ -1,6 +1,7 @@
+export const HOME = '/'
 export const PROGRAM = '/program'
 export const SPORT = '/sport'
 export const NAHRAVKY = '/nahravky'
 export const DETSKE = '/detske'
 export const PREMIUM = '/premium'
-export const VIDEOTEKA = '/videoteka'
+export const VIDEOTEQUE = '/videoteque'

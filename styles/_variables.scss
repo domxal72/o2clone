@@ -10,6 +10,7 @@ $transition: all ease 150ms;
 $base-size: 20px;
 $header-height: 85px;
 $channel-height: 80px;
+$channel-left-offset: 150px;
 $timeline-height: 60px;
 $hour-length: 300px;
 
@@ -18,3 +19,11 @@ $content-offset-width: 60px;
 
 // typography
 $weight-bold: bold;
+
+// z-index
+$header-z11: 11;
+$timeline-z5: 5;
+$channel-z2: 2;
+$swiper-hover-z2: 2;
+$swiper-hover-before-z1: 1;
+$slide-rating-z1: 1;

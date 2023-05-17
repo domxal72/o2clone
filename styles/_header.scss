@@ -1,13 +1,30 @@
 .header {
+  display: flex;
+  justify-content: space-between;
   width: 100%;
   height: $header-height;
-  position: fixed;
-  z-index: 10;
+  position: sticky;
+  top: 0;
+  z-index: $header-z11;
   padding: 0 $content-offset-width;
+  background: $dark;
+  transition: $transition;
+}
+
+.header--transparent {
+  background: transparent;
 }
 
 .header--relative {
   position: relative;
+}
+
+.header--fixed {
+  position: fixed;
+}
+
+.header--up-scroll {
+  position: sticky;
 }
 
 .header__menu-item {

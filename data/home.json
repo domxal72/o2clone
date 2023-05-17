@@ -1,0 +1,99 @@
+{
+  "live": [
+    {
+      "title": "Ano, šéfe!",
+      "description": "Restaurace U Zběhlíka / Čistá",
+      "imgSrc": "ano-sefe",
+      "channel": "prima"
+    },
+    {
+      "title": "Chcete být milionářem?",
+      "description": "",
+      "imgSrc": "milionar",
+      "channel": "nova-gold"
+    },
+    {
+      "title": "Bundesliga",
+      "description": "VfL Wolfsburg - 1. FSV Mainz",
+      "imgSrc": "no-img",
+      "channel": "ps1"
+    },
+    {
+      "title": "Kriminálka Miami",
+      "description": "S10:E6 Kousnutí z lásky",
+      "imgSrc": "miami",
+      "channel": "nova"
+    },
+    {
+      "title": "Doktor z hor: Nové příběhy",
+      "description": "S9:E6 Poslední píseň 2/2",
+      "imgSrc": "doktor",
+      "channel": "love"
+    },
+    {
+      "title": "Kouzelná Beruška a Černý kocour",
+      "description": "E85",
+      "imgSrc": "beruska",
+      "channel": "disney"
+    },
+    {
+      "title": "Úsměvy Hynka Bočana, Hynek Bočan – 85 let",
+      "description": "",
+      "imgSrc": "usmevy",
+      "channel": "ct1"
+    },
+    {
+      "title": "Bojovníci v odboji a ilegalitě - vzpomínky partyzánky",
+      "description": "",
+      "imgSrc": "vzpominky",
+      "channel": "ct2"
+    },
+    {
+      "title": "Teorie velkého třesku",
+      "description": "S8",
+      "imgSrc": "big-bang",
+      "channel": "nova-fun"
+    },
+    {
+      "title": "EL: Maccabi Tel Aviv-AS Monaco",
+      "description": "",
+      "imgSrc": "basket",
+      "channel": "ps2"
+    },
+    {
+      "title": "ONE Friday Fights",
+      "description": "E15",
+      "imgSrc": "fights",
+      "channel": "o2-sport"
+    },
+    {
+      "title": "ONE Friday Fights",
+      "description": "E15",
+      "imgSrc": "fights",
+      "channel": "o2-sport"
+    },
+    {
+      "title": "Jesse Stone: Nový začátek",
+      "description": "",
+      "imgSrc": "seleck",
+      "channel": "nova-cinema"
+    }
+  ],
+  "watch": [
+    {
+      "title": "Finále FORTUNA:LIGY",
+      "imgSrc": "finale",
+      "channel": "prima"
+    },
+    {
+      "title": "Zázrak ze západu",
+      "imgSrc": "zazrak",
+      "channel": "prima"
+    },
+    {
+      "title": "Film týdne O2 Videotéky",
+      "imgSrc": "mummies",
+      "channel": "prima"
+    }
+  ]
+}
