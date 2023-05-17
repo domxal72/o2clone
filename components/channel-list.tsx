@@ -51,7 +51,7 @@ function ChannelList({program}) {
   for( let i = 0; i < dayFilter.length - 2; i++){
     const [hour, minute] = dayFilter[i].cas.split(':')
     const [hourNext, minuteNext] = dayFilter[i + 1].cas.split(':')
-    dayFilter[i].timeFormat = Number(hour) * 60 + Number(minute)
+    dayFilter[i].timeFormat = Number(hour) * 60 + Number(minute) - 270
     dayFilter[i].minutesLength = (Number(hourNext) * 60 + Number(minuteNext)) - (Number(hour) * 60 + Number(minute))
     console.log(dayFilter[i].timeFormat, dayFilter[i].minutesLength)
   }

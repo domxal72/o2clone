@@ -11,7 +11,7 @@ const [hour, minute] = cas.split(':')
 // const left = (Number(hour) * 60 + Number(minute)) * 5 + 'px'
 // const left = (timeFormat) * 5 + stickyOffsetLeft + 'px'
 // const left = (timeFormat - minutesLength) * 5 + stickyOffsetLeft + 'px'
-const left = (timeFormat - minutesLength) * 5 + stickyOffsetLeft + 'px'
+const left = (timeFormat) * 5 + stickyOffsetLeft + 'px'
 
 // console.log(left, datum, nazvy)
 // console.log(item, datum, nazvy)
