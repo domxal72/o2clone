@@ -1,10 +1,10 @@
-import {useRef, useEffect} from "react"
+import {useEffect} from "react"
 import Link from "next/link"
 
 function TimelineItem({item, index, length}) {
 
 useEffect(() =>{
-  const timelineHours = document.querySelector('.timeline__hours .button-active')
+  const timelineHours = document.querySelector('.timeline__hours .timeline__hours--now')
   if(timelineHours){
     timelineHours.scrollIntoView({
       block: 'nearest',
@@ -20,9 +20,9 @@ useEffect(() =>{
     <div className='timeline__hours-item'>
       <Link
         href="#"
-        className={index === (length/2 + 1) ? 'button-active' : ''}
+        className={index === (length/2 + 1) ? 'timeline__hours--now' : ''}
       >
-        {item}
+        {item + ':00'}
       </Link>
     </div>
   )

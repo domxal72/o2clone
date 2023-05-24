@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import ChannelItem from './channel-item'
 import Image from 'next/image'
+import moment from 'moment'
 
 import ct1 from '../public/img/channels/ct1.png'
 
@@ -40,20 +41,15 @@ function ChannelList({program}) {
   // filter one day from data API
   const dayFilter = program.porad.filter((item) => (item.datum === '2023-04-09'))
 
-  // for( let i = 0; i < dayFilter.length; i++){
-  //   const [hour, minute] = dayFilter[i].cas.split(':')
-  //   const timeFormat = (Number(hour) * 60 + Number(minute)) - 300
-  //   dayFilter[i].timeFormat = i === 0 ? 5 : timeFormat
-  //   dayFilter[i].minutesLength = i === 0 ? 5 : (timeFormat - (dayFilter[i - 1]?.timeFormat))
-  //   console.log(dayFilter[i].timeFormat, dayFilter[i].minutesLength)
-  // }
+  const date = new Date()
+  const now = date.getHours() + ':' + date.getMinutes()
 
-  for( let i = 0; i < dayFilter.length - 2; i++){
+  for( let i = 0; i < dayFilter.length; i++){
     const [hour, minute] = dayFilter[i].cas.split(':')
-    const [hourNext, minuteNext] = dayFilter[i + 1].cas.split(':')
-    dayFilter[i].timeFormat = Number(hour) * 60 + Number(minute) - 270
+    const [hourNext, minuteNext] = dayFilter[i + 1] ? dayFilter[i + 1].cas.split(':') : [23, 59]
+    dayFilter[i].timeFormat = Number(hour) * 60 + Number(minute) - 420
     dayFilter[i].minutesLength = (Number(hourNext) * 60 + Number(minuteNext)) - (Number(hour) * 60 + Number(minute))
-    console.log(dayFilter[i].timeFormat, dayFilter[i].minutesLength)
+    dayFilter[i].now = dayFilter[i + 1] ? moment(dayFilter[i].datum + ' ' + now).isBetween(dayFilter[i].datum + ' ' + dayFilter[i].cas, dayFilter[i + 1].datum + ' ' + dayFilter[i + 1].cas, 'minutes') : false
   }
 
   if(!program){

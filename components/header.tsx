@@ -28,10 +28,10 @@ const data = [
   //   name: 'Nahrávky',
   //   route: NAHRAVKY
   // },
-  // {
-  //   name: 'Sport',
-  //   route: SPORT
-  // },
+  {
+    name: 'Sport',
+    route: SPORT
+  },
   // {
   //   name: 'Dětské',
   //   route: DETSKE

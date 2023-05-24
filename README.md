@@ -53,4 +53,5 @@ zakomponovat potom state management
 na scroll musi reagovat jak header tak timeline takze ten scrollState dat do Contextu abych to mel pristupny vsude 
 z-indexy dat do variables, at v nich mam prehled
 pridat na channelList padding na scroll?
+udelat context pro modal
  -->

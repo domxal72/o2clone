@@ -1,8 +1,11 @@
 import React from 'react'
+import Modal from 'react-modal';
 
 function Sport() {
   return (
-    <div>Sport in development...</div>
+    <div>
+      <div>Sport in development...</div>
+    </div>
   )
 }
 
